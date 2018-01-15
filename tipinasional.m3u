@@ -14,16 +14,13 @@ https://edge.okezone.com/live/rctioke.m3u8
 https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[132] TVONE 720p
-https://stream-02.sg1.dailymotion.com/06/dm/3/x619221/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/02/dm/3/x619221/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[133] TVONE 480p
-https://stream-02.sg1.dailymotion.com/06/dm/3/x619221/live-2.m3u8
+https://stream-02.sg1.dailymotion.com/02/dm/3/x619221/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV
 https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_360_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Local Channel",[135] Redbull TV
 https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="Local Channel",[139] Discovery
-http://floating-eyrie-34295.herokuapp.com/tmg.m3u8?stream=discovery-channel-usa&expired=f552cbf8f03423f87e1ba4968625e6e5&token=2ec2642d12ccdf8c49acdf7ef7d6fd77
