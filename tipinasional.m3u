@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" group-title="Local Channel",[128] GlobalTV
 https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://webcms.mncgroup.com/timthumb.php?zc=3&w=180&h=33&src=/app/webroot/files/mnctv/FA-LOGO-26_straight_crop.png" group-title="Local Channel",[129] MNC TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" group-title="Local Channel",[129] MNC TV
 https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png" group-title="Local Channel",[130] RCTI
