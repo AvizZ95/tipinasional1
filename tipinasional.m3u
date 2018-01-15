@@ -26,7 +26,7 @@ https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_360_av-p.m3u8?sd=10&reba
 https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/1200px-BBC_One_logo.svg.png" group-title="Local Channel",[136] BBC One
-https://par-2.firstone.tv/hls/cf2b687f-6087-85a3-cdab-26eaa3e53c1e.m3u8?time=1515993174581
+https://par-2.firstone.tv/hls/cf2b687f-6087-85a3-cdab-26eaa3e53c1e.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1200px-BBC_Two.svg.png" group-title="Local Channel",[137] BBC Two
 https://par-4.firstone.tv/hls/ac7eb06c-b541-0030-c4c6-0718d495e767.m3u8
