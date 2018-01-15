@@ -14,7 +14,10 @@ https://edge.okezone.com/live/rctioke.m3u8
 https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[132] TVONE 720p
-https://stream-ec.dmcdn.net/06/dm/3/x619221/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/06/dm/3/x619221/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[133] SCTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[133] TVONE 480p
+https://stream-02.sg1.dailymotion.com/06/dm/3/x619221/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV
 https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_360_av-p.m3u8?sd=10&rebase=on
