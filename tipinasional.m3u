@@ -26,9 +26,12 @@ https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_360_av-p.m3u8?sd=10&reba
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",[135] Redbull TV
 https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.skuff.tv/assets/logo_white_512-a54ff73a457a60b2fd8a69b83e961f635b545ed4f99b1dee49563fdebb323aee.png" group-title="Sport Channel",[135] Skuff TV
+#EXTINF:-1 tvg-logo="https://www.skuff.tv/assets/logo_white_512-a54ff73a457a60b2fd8a69b83e961f635b545ed4f99b1dee49563fdebb323aee.png" group-title="Sport Channel",[136] Skuff TV
 http://stream-02.sv6.dailymotion.com/31/dm/3/x2nnqfd/live-3.m3u8
 
 #TECH
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TWiT.svg/1200px-TWiT.svg.png" group-title="Tech Channel",[135] TWiT TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TWiT.svg/1200px-TWiT.svg.png" group-title="Tech Channel",[137] TWiT TV
 https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CvYC19bQGnKH7bZ1QFvICfrYfatTD-eYjFYSOX-QuQGJqpvtjhAPbw1pbjv2s-w_lcY1z8OhXwloge6nlsRTeCHWad9uLkSfJMZ76vFrek0wCRYCxULrDyJSQYm24VojIjV89mflBoUJIRyF5yS2WtlIAREMocAb-B2UPCabROCnrbomooD3rOoj2ECDrUJZxBiw7LToxm610lAcgn_ihZ1TG1v38kLkUP7LPuae2-qBTlEzOU5fYdfuhQ_tEFMEDAevTTcgc6QVD8ZoYzkMEIVt_p2wungnuwumAwWlHfM4Dbb9IrowXQo4s673SI0BWenuZ28QxSY6xl1IIP_PH6eKqf5bU-SvTNPrwR5f8_fW6QOg_X1KY291l4a2-RiY-GdKrJ32aHx42abc_1z9xYLe4TCWmPEJkqiqpeHlDCKg1NRb7T_CFpwMqfynAR8IyFyC-P6sMk9HRAgrwQLsA-x1pc07aydG7lF3RKipl8-09sF1prgZIZESEE3Ki6FRKro_pz0oL_uHNnEaDNjzjr_wYwSAekckyw.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/amazon/30600000344459/9e68a32afad10142f038af9e295b181a?v=1" group-title="Tech Channel",[138] The Tech Buzz Network
+http://stream-02.sv6.dailymotion.com/38/dm/3/x14tgdi/live-3.m3u8
