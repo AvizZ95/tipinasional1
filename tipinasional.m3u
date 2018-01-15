@@ -25,17 +25,5 @@ https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_360_av-p.m3u8?sd=10&reba
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Local Channel",[135] Redbull TV
 https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/1200px-BBC_One_logo.svg.png" group-title="Local Channel",[136] BBC One
-https://par-2.firstone.tv/hls/cf2b687f-6087-85a3-cdab-26eaa3e53c1e.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1200px-BBC_Two.svg.png" group-title="Local Channel",[137] BBC Two
-https://par-4.firstone.tv/hls/ac7eb06c-b541-0030-c4c6-0718d495e767.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1280px-ITV_logo_2013.svg.png" group-title="Local Channel",[138] ITV
-https://par-5.firstone.tv/hls/d7b83fb0-2e46-a2e7-67ca-b24c2c6bace6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/BBC_News.svg" group-title="Local Channel",[139] BBC News
-https://par-4.firstone.tv/hls/ad3f70d2-bcca-898f-05b5-0d16b4f7ef12.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="Local Channel",[139] Discovery Science
-https://uk-20g.firstonetv.net:4434/hls/383307f67dee113f2b6e4dc159616895/1516023372/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3139352d3138312d3137302d34342e6d6264722e63662f7032702f61343930616537356133656332616366313663396635393265383839656234632e6d3375383f73743d69342d782d666e544a73396f38577434646a5f71496726653d31353136303337373732.m3u8?time=1515994656133
+#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="Local Channel",[139] Discovery
+http://floating-eyrie-34295.herokuapp.com/tmg.m3u8?stream=discovery-channel-usa&expired=f552cbf8f03423f87e1ba4968625e6e5&token=2ec2642d12ccdf8c49acdf7ef7d6fd77
