@@ -1,0 +1,20 @@
+#EXTM3U
+
+#LOCAL
+#EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" group-title="Local Channel",[128] GlobalTV
+https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://webcms.mncgroup.com/timthumb.php?zc=3&w=180&h=33&src=/app/webroot/files/mnctv/FA-LOGO-26_straight_crop.png" group-title="Local Channel",[129] MNC TV
+https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local Channel",[130] RCTI
+https://edge.okezone.com/live/rctioke.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="Local Channel",[131] iNews TV
+https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[132] TVONE 720p
+https://stream-ec.dmcdn.net/06/dm/3/x619221/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[133] SCTV
+https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_360_av-p.m3u8?sd=10&rebase=on
