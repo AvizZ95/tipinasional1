@@ -14,7 +14,7 @@ https://edge.okezone.com/live/rctioke.m3u8
 https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[132] TVONE 720p
-https://stream-02.sg1.dailymotion.com/02/dm/3/x619221/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/32/dm/3/x619221/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[133] TVONE 480p
 https://stream-02.sg1.dailymotion.com/02/dm/3/x619221/live-2.m3u8
