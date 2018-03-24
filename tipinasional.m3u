@@ -33,7 +33,7 @@ http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
 
 #SPORT
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",[200] Redbull TV
-https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_3360.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skuff.tv/assets/logo_white_512-a54ff73a457a60b2fd8a69b83e961f635b545ed4f99b1dee49563fdebb323aee.png" group-title="Sport Channel",[201] Skuff TV
 http://stream-02.sv6.dailymotion.com/31/dm/3/x2nnqfd/live-3.m3u8
