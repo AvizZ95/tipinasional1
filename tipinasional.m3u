@@ -32,6 +32,9 @@ http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",[200] Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.benchrapport.com/wp-content/uploads/2014/06/espn.png?resize=720%2C340" group-title="Sport Channel",[201] ESPN
+https://videoserver2.org/live/qZA0QvP23hHKF9IwfmHNAA/1524651119/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+
 #NEWS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/640px-BBC_World_News_red.svg.png" group-title="News Channel",[300] BBC World News
 http://2222.janjuaplayer.com:8088/live/BBCWorld_Livenewson/playlist.m3u8?id=69232&pk=bee0e526c1f829ce13b39451ca6381b22d2f35a8efda2c713c5cf61ecc363c73
@@ -42,7 +45,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",[302] RT News
 https://secure-streams.akamaized.net/rt/index2500.m3u8
 
-#EXTINF:-1 tvg-logo="http://weathergroup.com/sites/default/files/styles/adaptive/public/images/color_weatherchannel_0.png?itok=iWLXt3yQ" group-title="News Channel",[300] Weather Channel 
+#EXTINF:-1 tvg-logo="http://weathergroup.com/sites/default/files/styles/adaptive/public/images/color_weatherchannel_0.png?itok=iWLXt3yQ" group-title="News Channel",[303] The Weather Channel 
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 
 #DOCUMENTARY
