@@ -41,6 +41,21 @@ http://uefaliveshow-lh.akamaihd.net/i/20150827_1@64648/index_2000_av-p.m3u8?sd=1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QaVUh3LAh2g/WVJEIoTdIYI/AAAAAAAAHeE/PPaKtUxVtwIziTuY46721XotnxUMnwn8ACLcBGAs/s1600/real_madrid_tv_es_english.png" group-title="Sport Channel",[203] RM TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",[204] Olympic Channel 1
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",[205] Olympic Channel 2
+https://live.olympicchannel.com/ocs/channel02b/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",[206] Olympic Channel 3
+https://live.olympicchannel.com/ocs/channel03b/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",[207] Olympic Channel 4
+https://live.olympicchannel.com/ocs/channel04b/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",[208] Olympic Channel 5
+https://live.olympicchannel.com/ocs/channel05b/master.m3u8
+
 #NEWS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/640px-BBC_World_News_red.svg.png" group-title="News Channel",[300] BBC World News
 http://2222.janjuaplayer.com:8088/live/BBCWorld_Livenewson/playlist.m3u8?id=69232&pk=bee0e526c1f829ce13b39451ca6381b22d2f35a8efda2c713c5cf61ecc363c73
@@ -66,10 +81,33 @@ http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/londonlive-big-logo.png" group-title="News Channel",[307] London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6617.1492904872.png" group-title="News Channel",[308] TRT World
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://weathergroup.com/sites/default/files/styles/adaptive/public/images/color_weatherchannel_0.png?itok=iWLXt3yQ" group-title="News Channel",[303] The Weather Channel 
+#EXTINF:-1 tvg-logo="http://weathergroup.com/sites/default/files/styles/adaptive/public/images/color_weatherchannel_0.png?itok=iWLXt3yQ" group-title="News Channel",[309] The Weather Channel 
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Channel",[310] CNN Live Event
+https://cnn-i.akamaihd.net/hls/live/253953/dotcomlive_1/v2/master.m3u8?__b__=650
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Channel",[311] CNN Live Event 2
+https://cnn-i.akamaihd.net/hls/live/253954/dotcomlive_2/v2/master.m3u8?__b__=650
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Channel",[312] CNN Live Event 3
+https://cnn-i.akamaihd.net/hls/live/253955/dotcomlive_3/v2/master.m3u8?__b__=650
+
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528" group-title="News Channel", [313] ABC News
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://is1.mzstatic.com/image/thumb/Purple3/v4/fd/d9/73/fdd97336-4b9d-26cf-d72c-db140f13055f/source/1200x630bb.jpg" group-title="News Channel", [314] WSJ Live
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="News Channel", [315] CGTN English
+https://live.cgtn.com/1000/prog_index.m3u8
+
 #DOCUMENTARY
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",[300] RTD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",[300] RTд (Russia Today Documentary)
 https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary Channel",[301] CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
