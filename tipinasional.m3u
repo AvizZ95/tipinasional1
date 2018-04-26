@@ -111,3 +111,6 @@ https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary Channel",[301] CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.monacobroadcast.mc/wp-content/uploads/2014/12/monaco-info1.jpg" group-title="Documentary Channel",[302] Monaco Info
+http://46.105.34.238/liveevent.m3u8
