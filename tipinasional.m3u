@@ -2,10 +2,10 @@
 
 #LOCAL
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" group-title="Local Channel",[128] GlobalTV
-https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" group-title="Local Channel",[129] MNC TV
-https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png" group-title="Local Channel",[130] RCTI
 https://edge.okezone.com/live/rctioke.m3u8
@@ -30,6 +30,15 @@ http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.inspira.tv/images/logo.png" group-title="Local Channel",[137] Inspira TV 
 http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="Local Channel",[138] CNN Indonesia 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" group-title="Local Channel",[139] Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/IDX_Channel.png" group-title="Local Channel",[140] IDX Channel
+https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
 
 #SPORT
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",[200] Redbull TV
