@@ -62,7 +62,7 @@ https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
 
 #NEWS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/640px-BBC_World_News_red.svg.png" group-title="News Channel",[300] BBC World News
-http://2222.janjuaplayer.com:8088/live/BBCWorld_Livenewson/playlist.m3u8?id=69232&pk=bee0e526c1f829ce13b39451ca6381b22d2f35a8efda2c713c5cf61ecc363c73
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/682px-Al-jazeera-logo.jpg" group-title="News Channel",[301] Al-Jazeera English
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
