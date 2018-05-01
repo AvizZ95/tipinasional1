@@ -61,8 +61,8 @@ https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
 
 
 #NEWS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/640px-BBC_World_News_red.svg.png" group-title="News Channel",[300] BBC World News
-
+#EXTINF:-1 tvg-logo="https://news.sky.com/assets/2018/sky-news-logo.png" group-title="News Channel",[300] sky news
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/682px-Al-jazeera-logo.jpg" group-title="News Channel",[301] Al-Jazeera English
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
@@ -120,6 +120,9 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1, tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png" group-title="News Channel", [319] MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="https://www3.nhk.or.jp/nhkworld/assets/images/icon_nhkworld_tv.png" group-title="News Channel", [319] NHK World Japan
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
 #DOCUMENTARY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",[300] RTд (Russia Today Documentary)
