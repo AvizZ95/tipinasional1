@@ -1,7 +1,7 @@
 #EXTM3U
 
 #LOCAL
-#EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" group-title="Local Channel",[128] Trans TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="Local Channel",[128] Trans TV
 http://www.dailymotion.com/video/x4nwi47
 
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" group-title="Local Channel",[128] GlobalTV
