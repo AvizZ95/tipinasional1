@@ -133,6 +133,9 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8
 #EXTINF:-1, tvg-logo="https://www3.nhk.or.jp/nhkworld/assets/images/icon_nhkworld_tv.png" group-title="News Channel", [319] NHK World Japan
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.monacobroadcast.mc/wp-content/uploads/2014/12/monaco-info1.jpg" group-title="News Channel",[302] Monaco Info
+http://46.105.34.238/liveevent.m3u8
+
 #DOCUMENTARY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",[300] RTд (Russia Today Documentary)
 https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
@@ -140,5 +143,3 @@ https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary Channel",[301] CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.monacobroadcast.mc/wp-content/uploads/2014/12/monaco-info1.jpg" group-title="Documentary Channel",[302] Monaco Info
-http://46.105.34.238/liveevent.m3u8
