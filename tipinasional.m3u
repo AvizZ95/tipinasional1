@@ -143,6 +143,6 @@ https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary Channel",[301] CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg" group-title="Documentary Channel",[302] 100Automoto.tv
+#EXTINF:-1 tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/bg-100-auto-moto-tv.jpg" group-title="Documentary Channel",[302] 100Automoto.tv
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
 
