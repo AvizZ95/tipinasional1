@@ -136,6 +136,9 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="http://www.monacobroadcast.mc/wp-content/uploads/2014/12/monaco-info1.jpg" group-title="News Channel",[302] Monaco Info
 http://46.105.34.238/liveevent.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/M%C3%BCnchen_tv_Logo.svg/2000px-M%C3%BCnchen_tv_Logo.svg.png" group-title="News Channel",[303] münchen TV
+https://586c13b083c0d.streamlock.net/muenchentv/muenchentv.stream_1/chunklist_w480156176.m3u8
+
 #DOCUMENTARY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",[300] RTд (Russia Today Documentary)
 https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
