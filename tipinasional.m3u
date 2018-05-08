@@ -53,11 +53,11 @@ http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/chunklist_w1198344535.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",[200] Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.benchrapport.com/wp-content/uploads/2014/06/espn.png?resize=720%2C340" group-title="Sport Channel",[201] ESPN
+#EXTINF:-1 tvg-logo="https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8" group-title="Sport Channel",[201] NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AJLlDp0lfOtXjFpWd7bx4hTeo_Gge9ERSi-Y75tk1A=s900-mo-c-c0xffffffff-rj-k-no" group-title="Sport Channel",[202] UEFA 
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Nhlnetwork.png/revision/latest?cb=20170710212734" group-title="Sport Channel",[202] NHL Network
+https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QaVUh3LAh2g/WVJEIoTdIYI/AAAAAAAAHeE/PPaKtUxVtwIziTuY46721XotnxUMnwn8ACLcBGAs/s1600/real_madrid_tv_es_english.png" group-title="Sport Channel",[203] RM TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
@@ -67,6 +67,9 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",[204] Olympic Channel
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",[204] Olympic Channel
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
 
 #NEWS
@@ -148,4 +151,10 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/bg-100-auto-moto-tv.jpg" group-title="Documentary Channel",[302] 100Automoto.tv
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/2000px-OWN_2011_logo.svg.png" group-title="Documentary Channel",[303] OWN
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Documentary Channel",[304] TLC
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
 
