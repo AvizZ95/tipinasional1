@@ -127,6 +127,9 @@ http://46.105.34.238/liveevent.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/M%C3%BCnchen_tv_Logo.svg/2000px-M%C3%BCnchen_tv_Logo.svg.png" group-title="News Channel",[303] münchen TV
 https://586c13b083c0d.streamlock.net/muenchentv/muenchentv.stream_1/chunklist_w480156176.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/BKztUDN0-CMf5w5B3vNo6HgYiXKDzNA8iac1fLqMC17rT8X8EOEyBO_K04XQ17LXB2I=s180" group-title="News Channel",[304] Press TV
+http://107.189.40.49:1935/live/ngrp:ptven_all/playlist.m3u8
+
 #LIVE EVENT
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",[310] CNN Live Event
