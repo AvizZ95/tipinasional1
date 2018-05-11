@@ -1,10 +1,10 @@
 #EXTM3U
 
 #LOCAL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="Local Channel",[120] TVRI
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",[120] TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="Local Channel",[121] TVRI Jawa Barat
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",[121] TVRI Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="Local Channel",[120] Trans TV
