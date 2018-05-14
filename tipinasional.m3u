@@ -55,6 +55,9 @@ https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Local Channel",[141] Kitanesia
 http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/chunklist_w1198344535.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",[120] LAN TV
+udp://@224.0.0.1:9999
+
 #SPORT
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",[200] Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
