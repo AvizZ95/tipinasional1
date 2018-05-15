@@ -26,10 +26,10 @@ https://cdn-livetv2.metube.id/hls/rcti.m3u8
 https://cdn-livetv2.metube.id/hls/inewstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[132] tvOne
-https://cdn-livetv1.metube.id/hls/tvone.m3u8
+https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104648/out/v1/6c76358aa4c94a37a7bef5b34d7b1246/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[133] ANTV
-https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104649/out/v1/8f7ad2f6b26e4594a42cca51fc99e5bd/index_5.m3u8?type=livestream&idx=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="Local Channel",[133] ANTV
+https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104649/out/v1/8f7ad2f6b26e4594a42cca51fc99e5bd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV
 https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
