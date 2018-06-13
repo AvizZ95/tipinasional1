@@ -193,7 +193,12 @@ https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528" group-title="News Live Event",ABC News Digital 11
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 
+#LIVE
+#EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/14681/logo_sunna%20tv%20%7C%20%20%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9.png" group-title="Live",[310] Sunna TV Masjid Nabawi Madinah
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://banner2.kisspng.com/20180421/hke/kisspng-quran-mecca-television-channel-television-show-the-holy-quran-5adb1aaa68d583.5559187415243086504294.jpg" group-title="Live",[310] Quran TV Masjid Haram Mekkah
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
 #DOCUMENTARY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",[300] RTд (Russia Today Documentary)
 https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
