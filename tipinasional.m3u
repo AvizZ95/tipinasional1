@@ -290,6 +290,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary Channel",[303] History Channel
+http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",[304] Animal Planet
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
