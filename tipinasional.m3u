@@ -44,7 +44,7 @@ https://cdn-livetv1.metube.id/hls/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",[136] TV Parlemen
 http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.inspira.tv/images/logo.png" group-title="Local Channel",[137] Inspira TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/logo%5B1%5D.png" group-title="Local Channel",[137] Inspira TV 
 http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="Local Channel",[138] CNN Indonesia 
@@ -94,6 +94,9 @@ https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",[206] Sony Ten 1 HD 
 http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",[206] Sony Ten 1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",[207] Sony Ten 2 HD 
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
 
@@ -103,8 +106,23 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",[207] Sony Ten 3 HD 
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",[207] Sony ESPN HD 
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",[207] Sony Ten 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport Channel",[207] Sony ESPN HD 
 http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport Channel",[207] Sony ESPN SD
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",[207] Sony SIX HD 
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",[207] Sony SIX SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/DSport_logo.png" group-title="Sport Channel",[207] DSport HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="Sport Channel",[208] Movistar Fútbol (Spa)
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/575/index.m3u8
@@ -260,7 +278,13 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/2306121/e/1_gesowtz8/sd/6000/t/y1SP
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Hiburan",[405] TLC HD World
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Hiburan",[406] AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Hiburan",[406] AXN SD
+http://cshms3.airtel.tv/wh7f454c46tw501677772_1439149542/PLTV/88888888/224/3221226443/index.m3u8
 
 #UK Channel
 #EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="UK",[401] BBC 1
