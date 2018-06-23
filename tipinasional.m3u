@@ -97,10 +97,7 @@ http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",[207] Sony Ten 2 HD 
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",[207] Sony Ten 2 SD -Alt
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",[207] Sony Ten 2 HD  -Alt
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",[207] Sony Ten 2 SD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",[207] Sony Ten 3 HD 
