@@ -139,13 +139,17 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="http://bdlivenow.com/wp-content/uploads/2017/08/ad-sports1.png" group-title="Sport Channel",[212] ad sports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvbd.live/wp-content/uploads/2017/08/ad-sports2.png" group-title="Sport Channel",[213] ad sports 1
+#EXTINF:-1 tvg-logo="http://tvbd.live/wp-content/uploads/2017/08/ad-sports2.png" group-title="Sport Channel",[213] ad sports 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png?w=400&h=160" group-title="Sport Channel",[214] Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[215] Eurosport 1 SD
+http://164.132.136.176:8000/0157
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[215] Eurosport 2 SD
+http://164.132.136.176:8000/0158
 
 #NEWS
 #EXTINF:-1 tvg-logo="https://news.sky.com/assets/2018/sky-news-logo.png" group-title="News Channel",[300] sky news
@@ -227,7 +231,7 @@ https://cnn-i.akamaihd.net/hls/live/253954/dotcomlive_2/v2/master.m3u8?__b__=650
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",[312] CNN Live Event 3
 https://cnn-i.akamaihd.net/hls/live/253955/dotcomlive_3/v2/master.m3u8?__b__=650
 
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528" group-title="News Live Event", [313] ABC News
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/_News_2013.png/revision/latest?cb=20130610165528" group-title="News Live Event", [313] ABC News
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528" group-title="News Live Event",ABC News Digital 2
