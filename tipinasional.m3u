@@ -292,7 +292,7 @@ http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary Channel",[303] History Channel
 http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",[304] Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",[304] Animal Planet HD World
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Discovery_hd_world_%28small_globe%29.png/revision/latest/scale-to-width-down/640?cb=20170120003159" group-title="Documentary Channel",[305] Discovery HD World
@@ -302,11 +302,19 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
 http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Documentary Channel",[306] Discovery Sci HD
-http://80.80.160.168/live/6/live.m3u8
+http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="Documentary Channel",[307] Investigation Discovery
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",[308] Animal Planet SD
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Documentary Channel",[309] Travel Channel SD 
+http://80.80.160.168/live/3/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Discovery_hd_world_%28small_globe%29.png/revision/latest/scale-to-width-down/640?cb=20170120003159" group-title="Documentary Channel",[310] Discovery HD
+http://80.80.160.168/live/8/live.m3u8
 
 #ENTERTAINMENT
 
@@ -329,7 +337,7 @@ http://cshms3.airtel.tv/wh7f454c46tw501677772_1439149542/PLTV/88888888/224/32212
 http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/3221226329/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="Hiburan",[408] Showtime
-http://80.80.160.168/live/9/live.m3u8
+http://80.80.160.168/live/7/live.m3u8
 
 #UK Channel
 
