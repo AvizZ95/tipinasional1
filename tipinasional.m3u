@@ -339,6 +339,9 @@ http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/32212
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="Hiburan",[408] Showtime
 http://80.80.160.168/live/7/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Hiburan",[409] Sony Le PLEX HD
+http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
+
 #UK Channel
 
 #EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="UK",[401] BBC 1
