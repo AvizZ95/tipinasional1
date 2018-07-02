@@ -87,7 +87,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",[204] Olympic Channel
-https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/mediaweek.com.au/wp-content/uploads/2017/05/FOX_SPORTS_NEWS_LOGO_DIGITAL.png?fit=1245%2C1040&ssl=1" group-title="Sport Channel",[205] FOX Sports News
 https://foxsportshlsg01-lh.akamaihd.net/i//fsnewshls_0@301672/master.m3u8
