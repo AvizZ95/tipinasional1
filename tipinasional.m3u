@@ -69,7 +69,7 @@ http://api.useetv.com/sc/useeprime/index.m3u8
 #SPORT
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",[200] Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest?cb=20150803005238" group-title="Sport Channel",[201] NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
