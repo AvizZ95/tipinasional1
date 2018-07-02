@@ -387,6 +387,11 @@ http://139.99.38.3:443/hd-kbsworld_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="Hiburan",[410] BBC Player Asia
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Hiburan",[411] AMC
+http://sg.doohdbox.com:8080/amc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/1200px-TCM_logo_2009.svg.png" group-title="Hiburan",[412] TCM (Turner Classic Movies) HD
+http://sg.doohdbox.com:8080/tcm/index.m3u8
 
 #UK Channel
 
