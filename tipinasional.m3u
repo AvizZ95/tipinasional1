@@ -178,7 +178,20 @@ http://sg.doohdbox.com:8080/skymotor/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",[219] BoxNation
 http://sg.doohdbox.com:8080/boxnation/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",[220] beIN SPORTS 1 true visions thailand
+http://main-a.for-our.info:8081/tv11/bein2/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",[220] beIN SPORTS 2 true visions thailand
+http://main-a.for-our.info:8081/tv11/bein3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",[220] beIN SPORTS 3 true visions thailand
+http://main-a.for-our.info:8081/tv11/bein4/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",[220] beIN SPORTS 4 true visions thailand
+http://main-a.for-our.info:8081/tv11/bein5/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",[220] beIN SPORTS 5 true visions thailand
+http://main-a.for-our.info:8081/tv11/bein6/chunks.m3u8
 #NEWS
 
 #EXTINF:-1 tvg-logo="https://news.sky.com/assets/2018/sky-news-logo.png" group-title="News Channel",[300] sky news
