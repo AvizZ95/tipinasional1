@@ -264,6 +264,14 @@ http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="News Channel",[306] CNN Chile
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",[307] CNN International
+http://175.192.77.223:9981/stream/channelid/839769056
+
+#EXTINF:-1 tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="News Channel",[308] MBC Korea
+http://175.192.77.223:9981/stream/channelid/1651972952
+
+
+
 #LIVE EVENT
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",[310] CNN Live Event
@@ -392,6 +400,10 @@ http://sg.doohdbox.com:8080/amc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/1200px-TCM_logo_2009.svg.png" group-title="Hiburan",[412] TCM (Turner Classic Movies) HD
 http://sg.doohdbox.com:8080/tcm/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/logo_life.png" group-title="Hiburan",[413] KBSN Life Korea
+http://175.192.77.223:9981/stream/channelid/92239969
+
 
 #UK Channel
 
