@@ -1,7 +1,7 @@
 #EXTM3U
 
 #LOCAL
-#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",[120] TVRI
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",[120] TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",[121] TVRI Jawa Barat
@@ -59,10 +59,8 @@ https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Local Channel",[141] Kitanesia
 http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/chunklist_w1198344535.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",[120] LAN TV
-udp://@224.0.0.1:9999
-
-
+#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",[142] Net. HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
 
 #SPORT
@@ -142,8 +140,11 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="http://tvbd.live/wp-content/uploads/2017/08/ad-sports2.png" group-title="Sport Channel",[213] ad sports 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png?w=400&h=160" group-title="Sport Channel",[214] Dubai Sports
+#EXTINF:-1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png?w=400&h=160" group-title="Sport Channel",[214] Dubai Sports 1
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png?w=400&h=160" group-title="Sport Channel",[214] Dubai Sports 2
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[215] Eurosport 1 SD
 http://164.132.136.176:8000/0157
@@ -162,10 +163,21 @@ http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[216] Eurosport 1 SD Czech
 http://65.254.55.10:4000/live/197/197.m3u8
 
-#EXTINF:-1 tvg-logo="src="http://images2.useetv.com/logo_useesports_big.png"" group-title="Sport Channel",[218] Usee Sports
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useesports_big.png" group-title="Sport Channel",[218] Usee Sports HD
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useesports_big.png" group-title="Sport Channel",[218] Usee Sports SD
+http://edge.telin.useetv.com/sc/useesport_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/800px-Moto_Gp_logo.svg.png"" group-title="Sport Channel",[218] MotoGP Feed
+http://sg.doohdbox.com:8080/skymotor/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",[219] BoxNation
+http://sg.doohdbox.com:8080/boxnation/index.m3u8
+
+
 #NEWS
+
 #EXTINF:-1 tvg-logo="https://news.sky.com/assets/2018/sky-news-logo.png" group-title="News Channel",[300] sky news
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 
@@ -296,7 +308,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary Channel",[303] History Channel
-http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
+http://139.99.38.2:443/hd-history_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",[304] Animal Planet HD World
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
@@ -321,6 +333,9 @@ http://80.80.160.168/live/3/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Discovery_hd_world_%28small_globe%29.png/revision/latest/scale-to-width-down/640?cb=20170120003159" group-title="Documentary Channel",[310] Discovery HD
 http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Documentary Channel",[310] Outdoor Channel
+http://sg.doohdbox.com:8080/Outdoor/mono.m3u8
 
 #ENTERTAINMENT
 
@@ -348,6 +363,10 @@ http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Hiburan",[409] Sony Le PLEX HD
 http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Hiburan",[409] KBS World HD
+http://139.99.38.3:443/hd-kbsworld_720/index.m3u8
+
+
 #UK Channel
 
 #EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="UK",[401] BBC 1
@@ -360,7 +379,7 @@ https://ovh.easyview.eu/hls/bbc2.m3u8
 https://ovh.easyview.eu/hls/bbc4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK",[403] itv 1
-https://ovh.easyview.eu/hls/itv.m3u8
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/70.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK",[404] itv 2
 https://ovh.easyview.eu/hls/itv2.m3u8
