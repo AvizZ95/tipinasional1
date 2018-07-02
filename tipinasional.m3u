@@ -364,6 +364,9 @@ http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Hiburan",[409] KBS World HD
 http://139.99.38.3:443/hd-kbsworld_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="Hiburan",[410] BBC Player Asia
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8
+
 
 #UK Channel
 
