@@ -363,6 +363,9 @@ http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Documentary Channel",[310] Outdoor Channel
 http://sg.doohdbox.com:8080/Outdoor/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Documentary Channel",[311] Diamond Earth
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+
 #ENTERTAINMENT
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/05/abc-logo-2014__140506025424.png" group-title="Hiburan",[400] ABC
