@@ -173,10 +173,10 @@ http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 http://edge.telin.useetv.com/sc/useesport_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/800px-Moto_Gp_logo.svg.png"" group-title="Sport Channel",[218] MotoGP Feed
-http://sg.doohdbox.com:8080/skymotor/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",[219] BoxNation
-http://sg.doohdbox.com:8080/boxnation/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",[220] beIN SPORTS 1 true visions thailand
 http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
@@ -334,7 +334,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary Channel",[303] History Channel
-http://139.99.38.2:443/hd-history_720/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",[304] Animal Planet HD World
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
@@ -349,7 +349,7 @@ http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/322122
 http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="Documentary Channel",[307] Investigation Discovery
-https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",[308] Animal Planet SD
 http://80.80.160.168/live/1/live.m3u8
@@ -392,17 +392,15 @@ http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Hiburan",[409] Sony Le PLEX HD
 http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Hiburan",[409] KBS World HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/220px-KBS_World_%282009%29.svg.png" group-title="Hiburan",[409] KBS World HD
 http://139.99.38.3:443/hd-kbsworld_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="Hiburan",[410] BBC Player Asia
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Hiburan",[411] AMC
-http://sg.doohdbox.com:8080/amc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/1200px-TCM_logo_2009.svg.png" group-title="Hiburan",[412] TCM (Turner Classic Movies) HD
-http://sg.doohdbox.com:8080/tcm/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/logo_life.png" group-title="Hiburan",[413] KBSN Life Korea
 http://175.192.77.223:9981/stream/channelid/92239969
