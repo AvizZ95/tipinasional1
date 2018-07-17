@@ -62,10 +62,6 @@ http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/chunklist_w1198344535.m3u8
 #EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",[142] Net. HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useeprime_big1.png" group-title="Local Channel",[142] Usee Prime
-http://api.useetv.com/sc/useeprime/index.m3u8
-
-
 #SPORT
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",[200] Redbull TV
@@ -166,11 +162,6 @@ http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[216] Eurosport 1 SD Czech
 http://65.254.55.10:4000/live/197/197.m3u8
 
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useesports_big.png" group-title="Sport Channel",[218] Usee Sports HD
-http://edge.telin.useetv.com/sc/useesport_720p.m3u8
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useesports_big.png" group-title="Sport Channel",[218] Usee Sports SD
-http://edge.telin.useetv.com/sc/useesport_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/800px-Moto_Gp_logo.svg.png"" group-title="Sport Channel",[218] MotoGP Feed
 
