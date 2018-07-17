@@ -1,2 +1,8 @@
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useeprime_big1.png" group-title="Local Channel",[142] Usee Prime
 http://api.useetv.com/sc/useeprime/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useesports_big.png" group-title="Sport Channel",[218] Usee Sports HD
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useesports_big.png" group-title="Sport Channel",[218] Usee Sports SD
+http://edge.telin.useetv.com/sc/useesport_360p.m3u8
