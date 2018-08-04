@@ -34,10 +34,17 @@ https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104649/out/v1/8f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV
 https://cdn-livetv1.metube.id/hls/sctv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV Alt.
+http://id1.indostreamingtv.com/live/tv2/index.m3u8
+
 #https://kmklive-lh.akamaihd.net/i/sctv_ta_regular@94479/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar
 https://cdn-livetv1.metube.id/hls/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar Alt.
+http://new.indostreamingtv.com/live/tv3/index.m3u8
+
 
 #https://kmklive-lh.akamaihd.net/i/indosiar_ta_regular@94479/master.m3u8
 
@@ -152,13 +159,13 @@ http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
 http://164.132.136.176:8000/0157
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[215] Eurosport 2 SD
-http://164.132.136.176:8000/0158
+http://195.206.253.157:8001/eurosport2hd
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[215] Eurosport 1 SD Serbia
 http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[215] Eurosport 2 SD Serbia
-http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[215] Eurosport 2 SD Polish
+http://195.206.253.157:8001/eurosport2hd
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[216] Eurosport 1 SD Czech
 http://65.254.55.10:4000/live/197/197.m3u8
@@ -169,14 +176,14 @@ http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",[219] BoxNation
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",[220] beIN SPORTS 1 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",[220] BT Sport 1 HD
+http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",[220] beIN SPORTS 2 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",[220] BT Sport 2 HD
+http://62.210.214.28:80/live?channelId=142&deviceMac=00:1A:79:40:F0:86&uid=4739
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",[220] beIN SPORTS 3 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",[220] BT Sport 3 HD
+http://cdnv.cli.tn/iptv/ch1830
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",[220] beIN SPORTS 4 true visions thailand
 http://main-a.for-our.info:8081/tv11/bein4/chunks.m3u8
@@ -265,12 +272,14 @@ http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",[307] CNN International
 http://175.192.77.223:9981/stream/channelid/839769056
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",[307] CNN International SD
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="News Channel",[308] MBC Korea
 http://175.192.77.223:9981/stream/channelid/1651972952
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",[309] Channel News Asia
 https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
-
 
 #LIVE EVENT
 
@@ -393,10 +402,8 @@ http://80.80.160.168/live/7/live.m3u8
 http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/220px-KBS_World_%282009%29.svg.png" group-title="Hiburan",[409] KBS World HD
-http://139.99.38.3:443/hd-kbsworld_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="Hiburan",[410] BBC Player Asia
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Hiburan",[411] AMC
 
@@ -405,62 +412,6 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/logo_life.png" group-title="Hiburan",[413] KBSN Life Korea
 http://175.192.77.223:9981/stream/channelid/92239969
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Hiburan",[414] Animax Bahasa Indonesia
-http://210.210.155.35/session/873789ac-6d81-11e8-83d2-b82a72d63267/uq2663/h/h18/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="Hiburan",[415] Aniplus Indonesia
-http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="Hiburan",[416] Fox Action Movies
-http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png" group-title="Hiburan",[417] FOX
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.pngpng" group-title="Hiburan",[418] Fox Family Movies
-http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="Hiburan",[419] Foxlife
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg" group-title="Hiburan",[420] KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Hiburan",[421] Thrill
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="Hiburan",[422] Sony One
-http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="Hiburan",[423] SBSIn
-http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/53/Logo_suria.gif" group-title="Hiburan",[423] Suria Singapura Bahasa Melayu
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
 
-
-#UK Channel
-
-#EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="UK",[401] BBC 1
-https://ovh.easyview.eu/hls/bbc1.m3u8
-
-#EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="UK",[402] BBC 2
-https://ovh.easyview.eu/hls/bbc2.m3u8
-
-#EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="UK",[403] BBC 4
-https://ovh.easyview.eu/hls/bbc4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK",[403] itv 1
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/70.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK",[404] itv 2
-https://ovh.easyview.eu/hls/itv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK",[405] itv 3
-https://ovh.easyview.eu/hls/itv3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK",[405] itv 4
-https://ovh.easyview.eu/hls/itv4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK",[405] mix
-https://github.com/AvizZ95/tipinasional1/raw/master/temp/uk.m3u
