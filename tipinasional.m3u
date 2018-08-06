@@ -275,7 +275,7 @@ http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",[307] CNN International
 http://175.192.77.223:9981/stream/channelid/839769056
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",[307] CNN International SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",[307] CNN/U.S SD
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="News Channel",[308] MBC Korea
