@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0",TRANS TV
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0",TRANS 7
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_big1.png",NET.
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/rctilogo.png",RCTI
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png",GTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0",SCTV
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+
+tvg-logo="http://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.9",JAKTV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png",I News
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0",TV One
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0",KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0",METRO TV
+http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0",ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0",INDOSIAR
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png",MNC TV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0",RTV
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+
+#EXTINF:-1 tvg-logo="",Rodja TV
+http://210.210.155.35/qwr9ew/s/s14/index1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2000px-National-Geographic-Logo.svg.png" group-title="Documentary",National Geographic
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" group-title="Documentary",Nat Geo Wild
+http://210.210.155.35/uq2663/h/h12/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.svg.png" group-title="Movie",FOX HD
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Movie",FOX Movies
+http://210.210.155.35/uq2663/h/h14/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/FOXActionMovies_logo_2.png/revision/latest?cb=20170928080759" group-title="Movie",FOX Action Movies
+http://210.210.155.35/uq2663/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/1200px-FOX_Family_Movies_%282017%29.png" group-title="Movie",FOX Family Movies
+http://210.210.155.35/uq2663/h/h16/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/FOXLifeLA.png/revision/latest?cb=20171001074306" group-title="Movie",FOX Life
+http://210.210.155.35/uq2663/h/h03/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2000px-AXN_logo_%282015%29.svg.png" group-title="Movie",AXN
+http://210.210.155.35/uq2663/h/h09/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Sony_Channel_logo.png/revision/latest?cb=20160827103513" group-title="Movie",SONY Channel
+http://210.210.155.35/uq2663/h/h06/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Movie",KIX
+http://210.210.155.35/uq2663/h/h07/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.zeebioskop.com/images/image002.png" group-title="Movie",ZEE Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="Movie",thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2000px-Animax_logo.svg.png" group-title="Movie",Animax
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",DIAMOND TV
+http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",AVAVA BOLLYWOOD
+http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",AVAVA DIAMOND
+http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",BLACK DIAMOND
+http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",RED DIAMOND
+http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",WHITE DIAMOND
+http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",DIAMOND KIDS
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",DIAMOND EARTH
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Diamond World",GOLD DIAMOND
+http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="Sport",Fox Sport 1
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/88/Fox_Sports_2_Asia.jpg" group-title="Sport",Fox Sport 2
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/fox-sport-3-sd.jpg" group-title="Sport",Fox Sport 3
+http://210.210.155.35/uq2663/h/h21/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png" group-title="Korea",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfFRPvQuzzXfpW6lMBbYPHaq_gTnWhZaKRhkSQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Korea",SBS in
+http://210.210.155.35/uq2663/h/h28/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/ONE_logo.jpg" group-title="Korea",SONY One
+http://210.210.155.35/uq2663/h/h13/index.m3u8
