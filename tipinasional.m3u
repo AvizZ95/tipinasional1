@@ -179,6 +179,13 @@ http://195.206.253.157:8001/eurosport2hd
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[216] Eurosport 1 SD Czech
 http://65.254.55.10:4000/live/197/197.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[216] Eurosport 1 SD Ru
+http://46.8.159.250:44489/channel73.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[216] Eurosport 2 SD Ru
+http://46.8.159.250:44489/channel74.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/800px-Moto_Gp_logo.svg.png"" group-title="Sport Channel",[218] MotoGP Feed
 
 
