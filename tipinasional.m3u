@@ -41,21 +41,14 @@ https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104648/out/v1/6c
 https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104649/out/v1/8f7ad2f6b26e4594a42cca51fc99e5bd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV (Server Metube)
-https://cdn-livetv1.metube.id/hls/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV (Server tvonline.id)
-http://id1.indostreamingtv.com/live/tv2/index.m3u8
-
-#https://kmklive-lh.akamaihd.net/i/sctv_ta_regular@94479/master.m3u8
+http://new.indostreamingtv.com/live/tv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server Metube)
-https://cdn-livetv1.metube.id/hls/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server tvonline.id)
-http://new.indostreamingtv.com/live/tv3/index.m3u8
-
-
-#https://kmklive-lh.akamaihd.net/i/indosiar_ta_regular@94479/master.m3u8
+http://id4.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",[136] TV Parlemen
 http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
