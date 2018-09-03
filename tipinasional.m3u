@@ -11,7 +11,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
 http://185.21.216.166:8554/whale/transtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE4IDU6NDY6MjYgQU0maGFzaF92YWx1ZT1nRWx5S3lXanFKeHlobEYxTWdGdVFnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="Local Channel",[120] Trans TV (Server tvonline.id)
-http://new.indostreamingtv.com/live/tv33/index.m3u8
+http://id4.indostreamingtv.com/live/tv6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" group-title="Local Channel",[121] Trans 7 
 http://185.21.216.166:8554/whale/trans7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE4IDU6NDU6MjQgQU0maGFzaF92YWx1ZT1nbW1sbm9Vb0Z0STNzbTh0NDc2ckxBPT0mdmFsaWRtaW51dGVzPTI=
@@ -43,12 +43,12 @@ https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104649/out/v1/8f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV (Server Metube)
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV (Server tvonline.id)
-http://new.indostreamingtv.com/live/tv2/index.m3u8
+http://id4.indostreamingtv.com/live/tv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server Metube)
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server tvonline.id)
-http://id4.indostreamingtv.com/live/tv1/index.m3u8
+http://new.indostreamingtv.com/live/tv3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",[136] TV Parlemen
 http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
