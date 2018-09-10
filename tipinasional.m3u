@@ -48,7 +48,7 @@ http://id4.indostreamingtv.com/live/tv2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server Metube)
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server tvonline.id)
-http://new.indostreamingtv.com/live/tv3/index.m3u8
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",[136] TV Parlemen
 http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
