@@ -425,7 +425,7 @@ http://175.192.77.223:9981/stream/channelid/92239969
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png" group-title="Hiburan",[423] Heartv
-https://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
+https://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="Hiburan",[423] Foodie
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112686/live/BSgroup/amlst:foodiee/chunklist.m3u8
