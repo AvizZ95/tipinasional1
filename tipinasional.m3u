@@ -433,3 +433,5 @@ https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/packages/handl.jpg" group-title="Hiburan",[423] H and L (Home and Living)
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112685/live/BSgroup/amlst:homelivinghd/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Hiburan",[423] HBO HD
+http://sulukhbo.myftp.biz:8278/Hbohd/playlist.m3u8
