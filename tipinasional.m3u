@@ -40,6 +40,9 @@ https://cdn-livetv2.metube.id/hls/inewstv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[132] tvOne
 https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104648/out/v1/6c76358aa4c94a37a7bef5b34d7b1246/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[132] tvOne
+https://stream-01.sg1.dailymotion.com/dm/3/x619221/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="Local Channel",[133] ANTV
 https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104649/out/v1/8f7ad2f6b26e4594a42cca51fc99e5bd/index.m3u8
 
@@ -79,6 +82,9 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png",[143] BeritaSatu News Channel (Server iflix)
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113215/live/BsNew/amlst:beritasatunewsbs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",[144] KompasTV
+https://stream-03.sg1.dailymotion.com/dm/3/x6pz4sa/live.m3u8
 
 #SPORT
 
@@ -293,6 +299,9 @@ http://103.89.176.45:8278/cna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",[309] Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/2000px-Arirang.svg.png" group-title="News Channel",[309] Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+
 #LIVE EVENT
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",[310] CNN Live Event
@@ -435,6 +444,12 @@ https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/packages/handl.jpg" group-title="Hiburan",[423] H and L (Home and Living)
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112685/live/BSgroup/amlst:homelivinghd/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Hiburan",[423] Fashion TV
+http://stream-01.sg1.dailymotion.com/52/dm/3/x3m6nld/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwO5k6izLTxBJEkDv2pK1MEuyW618TJ2xyLcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Hiburan",[423] ALL THE K-POP
+https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Hiburan",[423] HBO HD
 http://sulukhbo.myftp.biz:8278/Hbohd/playlist.m3u8
