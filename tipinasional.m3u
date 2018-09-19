@@ -453,3 +453,10 @@ https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Hiburan",[423] HBO HD
 http://sulukhbo.myftp.biz:8278/Hbohd/playlist.m3u8
+
+#United Kingdom TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK TV", ITV
+http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK TV", ITV 2
+http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
