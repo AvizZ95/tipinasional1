@@ -288,7 +288,10 @@ http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
 http://175.192.77.223:9981/stream/channelid/1651972952
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",[309] Channel News Asia
-https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
+http://103.89.176.45:8278/cna/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",[309] Channel News Asia
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
 
 #LIVE EVENT
 
@@ -422,7 +425,7 @@ http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/322122
 http://175.192.77.223:9981/stream/channelid/92239969
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/53/Logo_suria.gif" group-title="Hiburan",[423] Suria Singapura Bahasa Melayu
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
+https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png" group-title="Hiburan",[423] Heartv
 https://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
