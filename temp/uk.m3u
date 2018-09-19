@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1,51125
-#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",[120] 51125
 http://5.101.174.110:8000/play/a09x
 #EXTINF:-1,5STAR
 http://5.101.174.110:8000/play/a01p
