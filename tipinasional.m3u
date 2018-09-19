@@ -210,7 +210,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/682px-Al-jazeera-logo.jpg" group-title="News Channel",[301] Al-Jazeera English
-https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",[302] RT News
 https://rt-news.secure.footprint.net/1103.m3u8
