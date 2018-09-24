@@ -86,6 +86,56 @@ https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",[144] KompasTV
 https://stream-03.sg1.dailymotion.com/dm/3/x6pz4sa/live.m3u8
 
+#TV TETANGGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Channel Negara Tetangga",tv1
+https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/1280px-Logo_of_TV2_%28Malaysia%29.svg.png" group-title="Channel Negara Tetangga",tv2
+https://rtm-live-stream2.glueapi.io/smil:rtmch002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png" group-title="Channel Negara Tetangga",tv3
+http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest/scale-to-width-down/640?cb=20180622050405" group-title="Channel Negara Tetangga",okey
+https://rtm-live-stream1.glueapi.io/smil:rtmch003.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-image.glueapi.io/960x640/live_stream/3-TVi.jpg" group-title="Channel Negara Tetangga",TVi
+https://rtm-live-stream1.glueapi.io/smil:rtmch004/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vv-03Hl-Ufg/WkCDTpMyplI/AAAAAAAAJ3A/RhezEz-90PYR58J4HacuE8q7x_kM2IH4gCLcBGAs/s1600/1News.jpg" group-title="Channel Negara Tetangga",1news
+https://rtm-live-stream2.glueapi.io/smil:rtmch006/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5c/NTV_natseven_New.png/200px-NTV_natseven_New.png" group-title="Channel Negara Tetangga",ntv7
+http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" group-title="Channel Negara Tetangga",tv8
+http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Logo_of_TV9_%28Malaysia%29.svg" group-title="Channel Negara Tetangga",tv9
+http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/Channel_5_3D_logo.png/revision/latest?cb=20161027160840" group-title="Channel Negara Tetangga",Channel 5
+https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/Channel-8-data.jpg/revision/latest?cb=20170202190816" group-title="Channel Negara Tetangga",Channel 8
+https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png/revision/latest?cb=20160318131523" group-title="Channel Negara Tetangga",Channel U
+https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/53/Logo_suria.gif" group-title="Channel Negara Tetangga",Suria Singapura Bahasa Melayu
+https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Okto_logo.jpg/revision/latest?cb=20170116165335" group-title="Channel Negara Tetangga",Channel OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Vst.png/revision/latest?cb=20160531151559" group-title="Channel Negara Tetangga",Vasantham
+https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Radio_Television_Brunei.gif" group-title="Channel Negara Tetangga", RTB
+mms://202.160.15.88/stream-03-512
+
 #SPORT
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",[200] Redbull TV
@@ -433,9 +483,6 @@ http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/logo_life.png" group-title="Hiburan",[413] KBSN Life Korea
 http://175.192.77.223:9981/stream/channelid/92239969
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/53/Logo_suria.gif" group-title="Hiburan",[423] Suria Singapura Bahasa Melayu
-https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png" group-title="Hiburan",[423] Heartv
 https://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
@@ -451,12 +498,11 @@ http://stream-01.sg1.dailymotion.com/52/dm/3/x3m6nld/live.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwO5k6izLTxBJEkDv2pK1MEuyW618TJ2xyLcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Hiburan",[423] ALL THE K-POP
 https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Hiburan",[423] HBO HD
+#MOVIE
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",[423] HBO HD
 http://sulukhbo.myftp.biz:8278/Hbohd/playlist.m3u8
 
 #United Kingdom TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK TV", ITV
-http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK TV", ITV 2
-http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
