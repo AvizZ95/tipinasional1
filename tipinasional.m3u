@@ -403,6 +403,12 @@ https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
 #EXTINF:-1, tvg-logo="https://banner2.kisspng.com/20180421/hke/kisspng-quran-mecca-television-channel-television-show-the-holy-quran-5adb1aaa68d583.5559187415243086504294.jpg" group-title="Live",[310] Quran TV Masjid Haram Mekkah
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://dcassetcdn.com/design_img/31919/61617/61617_806190_31919_image.jpg" group-title="Live, Times Square Street Cam
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="https://dcassetcdn.com/design_img/31919/61617/61617_806190_31919_image.jpg" group-title="Live, Times Square Street Cam
+https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist.m3u8
+
 #DOCUMENTARY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",[300] RTд (Russia Today Documentary)
 https://rt-doc.secure.footprint.net/1101.m3u8
