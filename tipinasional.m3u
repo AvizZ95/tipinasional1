@@ -229,8 +229,8 @@ http://46.8.159.250:44489/channel73.m3u8
 http://46.8.159.250:44489/channel74.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/800px-Moto_Gp_logo.svg.png"" group-title="Sport Channel",[218] MotoGP Feed
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1280px-Rai_Sport_-_Logo_2017.svg.png"" group-title="Sport Channel",[218] Rai Sport
+https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",[219] BoxNation
 
