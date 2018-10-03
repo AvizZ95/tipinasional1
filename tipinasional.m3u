@@ -195,12 +195,6 @@ http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/32212
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/DSport_logo.png" group-title="Sport Channel",[207] DSport HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="Sport Channel",[208] Movistar Fútbol (Spa)
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/575/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="Sport Channel",[210] Movistar Formula 1 (Spa)
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/612/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",[211] ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 
