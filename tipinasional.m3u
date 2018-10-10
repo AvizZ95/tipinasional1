@@ -38,13 +38,7 @@ https://cdn-livetv2.metube.id/hls/rcti.m3u8
 https://cdn-livetv2.metube.id/hls/inewstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[132] tvOne
-https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104648/out/v1/6c76358aa4c94a37a7bef5b34d7b1246/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[132] tvOne
 https://stream-01.sg1.dailymotion.com/dm/3/x619221/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="Local Channel",[133] ANTV
-https://iflix-videocdn-p1.akamaized.net/userid/22922679/assetid/104649/out/v1/8f7ad2f6b26e4594a42cca51fc99e5bd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV (Server Metube)
 
@@ -63,7 +57,7 @@ http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
 http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="Local Channel",[138] CNN Indonesia 
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" group-title="Local Channel",[139] Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
