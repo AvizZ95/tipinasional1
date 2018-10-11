@@ -399,6 +399,12 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://dcassetcdn.com/design_img/31919/61617/61617_806190_31919_image.jpg" group-title="Live, Times Square Street Cam
 https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist.m3u8
 
+#EXTINF:-1, tvg-logo="https://dcassetcdn.com/design_img/31919/61617/61617_806190_31919_image.jpg" group-title="Live, Times Square Street Cam North View
+https://videos3.earthcam.com/fecnetwork/485.flv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://dcassetcdn.com/design_img/31919/61617/61617_806190_31919_image.jpg" group-title="Live, Times Square Street Cam South View
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist.m3u8
+
 #DOCUMENTARY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",[300] RTд (Russia Today Documentary)
 https://rt-doc.secure.footprint.net/1101.m3u8
@@ -495,7 +501,7 @@ http://stream-01.sg1.dailymotion.com/52/dm/3/x3m6nld/live.m3u8
 https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 
 #MOVIE
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",[423] HBO HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
 http://210.210.155.35/uq2663/h/h231/index.m3u8
 
 #United Kingdom TV
