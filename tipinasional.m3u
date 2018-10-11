@@ -1,87 +1,83 @@
 #EXTM3U
 
 #LOCAL
-#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",[120] TVRI Nasional
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-id="TVRI" tvg-name="TVRI" group-title="Local Channel",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",[121] TVRI Jawa Barat
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",TVRI Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="Local Channel",[120] Trans TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV
 https://stream-01.sg1.dailymotion.com/dm/3/x5b99vx/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="Local Channel",[120] Trans TV SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV (opt-2)
 https://stream-01.sg1.dailymotion.com/dm/3/x4nwi47/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="Local Channel",[120] Trans TV (Server tvonline.id)
-http://id1.indostreamingtv.com/live/tv6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" group-title="Local Channel",[121] Trans 7 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",[121] Trans 7 
 https://stream-03.sg1.dailymotion.com/dm/3/x6p1gw7/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" group-title="Local Channel",[121] Trans 7 (Server tvonline.id)
-http://id2.indostreamingtv.com/live/tv77/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV
+http://ez-tracker.net/tv/GTV
 
-#EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" group-title="Local Channel",[128] GlobalTV
-https://cdn-livetv2.metube.id/hls/globaltv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV
+http://ez-tracker.net/tv/MNC
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" group-title="Local Channel",[129] MNC TV
-https://cdn-livetv2.metube.id/hls/mnctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" group-title="Local Channel",[130] RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI
 https://edge.okezone.com/live/rctioke.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" group-title="Local Channel",[130-1] RCTI 2
-https://cdn-livetv2.metube.id/hls/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI (opt-2) 
+http://ez-tracker.net/tv/RCTI
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="Local Channel",[131] iNews TV
-https://cdn-livetv2.metube.id/hls/inewstv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV
+http://ez-tracker.net/tv/INEWS
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Local Channel",[132] tvOne
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne
 https://stream-01.sg1.dailymotion.com/dm/3/x619221/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV (Server Metube)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
 http://ez-tracker.net/tv/SCTV
 
-#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server Metube)
-
-#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server tvonline.id)
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar (Server tvonline.id)
 http://id1.indostreamingtv.com/live/tv11/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server ez-tracker)
-http://ez-tracker.net/tv/Indosiar
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar (Server ez-tracker)
+http://ez-tracker.net/tv/Indosiar_2
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",[136] TV Parlemen
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",TV Parlemen
 http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/logo%5B1%5D.png" group-title="Local Channel",[137] Inspira TV 
-http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/logo%5B1%5D.png" group-title="Local Channel",Inspira TV 
+http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="Local Channel",[138] CNN Indonesia 
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-id="CNIH" tvg-name="CNN Indonesia HD" group-title="Local Channel",CNN Indonesia 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" group-title="Local Channel",[139] Metro TV
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-id="CNIH" tvg-name="CNN Indonesia HD" group-title="Local Channel",CNN Indonesia Transvision
+http://210.210.155.35/uq2663/h/h234/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/IDX_Channel.png" group-title="Local Channel",[140] IDX Channel
-https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Local Channel",[141] Kitanesia
-http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/chunklist_w1198344535.m3u8
+
+#EXTINF:-1 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Local Channel",Kitanesia
+http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",[142] Net. HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png",[143] BeritaSatu News Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" tvg-id="BST" tvg-name="BeritaSatu",BeritaSatu News Channel (Server iflix)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png",[143] BeritaSatu News Channel (Server iflix)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" tvg-id="BST" tvg-name="BeritaSatu",BeritaSatu News Channel (Server iflix)
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113215/live/BsNew/amlst:beritasatunewsbs/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",[144] KompasTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV
 https://stream-03.sg1.dailymotion.com/dm/3/x6pz4sa/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net 
+http://stream1.ninmedia.tv/live/xmedia-rrinet.stream_nin/chunklist.m3u8
 
 #TV TETANGGA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Channel Negara Tetangga",tv1
@@ -500,6 +496,7 @@ https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 
 #MOVIE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",[423] HBO HD
+http://210.210.155.35/uq2663/h/h231/index.m3u8
 
 #United Kingdom TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK TV", ITV
