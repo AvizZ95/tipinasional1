@@ -42,13 +42,16 @@ https://stream-01.sg1.dailymotion.com/dm/3/x619221/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV (Server Metube)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV (Server tvonline.id)
-http://id4.indostreamingtv.com/live/tv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" group-title="Local Channel",[134] SCTV
+http://ez-tracker.net/tv/SCTV
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server Metube)
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server tvonline.id)
 http://id1.indostreamingtv.com/live/tv11/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[135] Indosiar (Server ez-tracker)
+http://ez-tracker.net/tv/Indosiar
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",[136] TV Parlemen
 http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
