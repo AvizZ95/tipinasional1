@@ -76,6 +76,9 @@ https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV
 https://stream-03.sg1.dailymotion.com/dm/3/x6pz4sa/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV opt-2
+https://tv.rumahstreaming.stream/384f77723ebe8ff4kompas/lives/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net 
 http://36.89.47.217:11935/rrinet/live/playlist.m3u8
 
