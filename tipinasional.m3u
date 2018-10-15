@@ -38,13 +38,13 @@ https://stream-01.sg1.dailymotion.com/dm/3/x619221/live.m3u8
 http://id2.indostreamingtv.com/live/tv4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
-https://tv.rumahstreaming.stream/7f9e32101b1f4579sctv/lives/chunk.m3u8
+https://tv.rumahstreaming.stream/7f9e32101b1f4579sctv/lives/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar (Server tvonline.id)
 http://id1.indostreamingtv.com/live/tv11/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar (Server ez-tracker)
-https://tv.rumahstreaming.stream/5ecf9ba5789f4de8indosiar/lives/chunks.m3u8
+https://tv.rumahstreaming.stream/5ecf9ba5789f4de8indosiar/lives/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",TV Parlemen
 http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
