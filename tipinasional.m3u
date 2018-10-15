@@ -477,9 +477,6 @@ http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/32212
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="Hiburan",[408] Showtime
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Hiburan",[409] Sony Le PLEX HD
-http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/220px-KBS_World_%282009%29.svg.png" group-title="Hiburan",[409] KBS World HD
 
 #EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="Hiburan",[410] BBC Player Asia
@@ -509,6 +506,19 @@ https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 #MOVIE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
 http://210.210.155.35/uq2663/h/h231/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Hiburan",Sony Le PLEX HD
+http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Hiburan",&flixHD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Hiburan",&flixHD
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+
+https://vignette.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20120615194124
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+
 
 #United Kingdom TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK TV", ITV
