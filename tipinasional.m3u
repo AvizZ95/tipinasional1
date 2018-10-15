@@ -34,6 +34,9 @@ https://tv.rumahstreaming.stream/5140d1f8752e7064inewstv/lives/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne
 https://stream-01.sg1.dailymotion.com/dm/3/x619221/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",ANTV
+http://id2.indostreamingtv.com/live/tv4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
 https://tv.rumahstreaming.stream/7f9e32101b1f4579sctv/lives/chunk.m3u8
 
