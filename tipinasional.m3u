@@ -108,10 +108,10 @@ https://rtm-live-stream2.glueapi.io/smil:rtmch006/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5c/NTV_natseven_New.png/200px-NTV_natseven_New.png" group-title="Channel Negara Tetangga",ntv7
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" group-title="Channel Negara Tetangga",tv8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" group-title="Channel Negara Tetangga",8tv
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Logo_of_TV9_%28Malaysia%29.svg" group-title="Channel Negara Tetangga",tv9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/NewlogoTV9_%28Malaysia%29.png" group-title="Channel Negara Tetangga",tv9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/Channel_5_3D_logo.png/revision/latest?cb=20161027160840" group-title="Channel Negara Tetangga",Channel 5
