@@ -17,19 +17,19 @@ https://stream-01.sg1.dailymotion.com/dm/3/x4nwi47/live.m3u8
 https://stream-03.sg1.dailymotion.com/dm/3/x6p1gw7/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV
-https://tv.rumahstreaming.stream/1a9fd12295670b1fglobaltv/lives/playlist.m3u8
+https://iptv.prakashdivy.id/metube/gtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV
-https://tv.rumahstreaming.stream/03ad6b442e20f7f3mnctv/lives/playlist.m3u8
+https://iptv.prakashdivy.id/metube/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI
 https://edge.okezone.com/live/rctioke.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI (opt-2) 
-https://tv.rumahstreaming.stream/0f5822af544d5be1rcti/lives/playlist.m3u8
+https://iptv.prakashdivy.id/metube/rcti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV
-https://tv.rumahstreaming.stream/5140d1f8752e7064inewstv/lives/playlist.m3u8
+https://iptv.prakashdivy.id/metube/inewstv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne
 https://stream-01.sg1.dailymotion.com/dm/3/x619221/live.m3u8
