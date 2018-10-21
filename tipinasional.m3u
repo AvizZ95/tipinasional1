@@ -507,16 +507,16 @@ https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
 http://210.210.155.35/uq2663/h/h231/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Hiburan",Sony Le PLEX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Movie",Sony Le PLEX HD
 http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Hiburan",&flixHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movie",&flixHD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Hiburan",&privéHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movie",&privéHD
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20120615194124" group-title="Hiburan",HBO2
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20120615194124" group-title="Movie",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 
 #United Kingdom TV
