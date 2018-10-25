@@ -133,215 +133,197 @@ mms://202.160.15.88/stream-03-512
 
 #SPORT
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",[200] Redbull TV
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest?cb=20150803005238" group-title="Sport Channel",[201] NFL Now
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest?cb=20150803005238" group-title="Sport Channel",NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Nhlnetwork.png/revision/latest?cb=20170710212734" group-title="Sport Channel",[202] NHL Network
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Nhlnetwork.png/revision/latest?cb=20170710212734" group-title="Sport Channel",NHL Network
 https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sport Channel",[203] MLB Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sport Channel",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QaVUh3LAh2g/WVJEIoTdIYI/AAAAAAAAHeE/PPaKtUxVtwIziTuY46721XotnxUMnwn8ACLcBGAs/s1600/real_madrid_tv_es_english.png" group-title="Sport Channel",[204] RM TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QaVUh3LAh2g/WVJEIoTdIYI/AAAAAAAAHeE/PPaKtUxVtwIziTuY46721XotnxUMnwn8ACLcBGAs/s1600/real_madrid_tv_es_english.png" group-title="Sport Channel",RM TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QaVUh3LAh2g/WVJEIoTdIYI/AAAAAAAAHeE/PPaKtUxVtwIziTuY46721XotnxUMnwn8ACLcBGAs/s1600/real_madrid_tv_es_english.png" group-title="Sport Channel",[204] RM TV Inggris
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QaVUh3LAh2g/WVJEIoTdIYI/AAAAAAAAHeE/PPaKtUxVtwIziTuY46721XotnxUMnwn8ACLcBGAs/s1600/real_madrid_tv_es_english.png" group-title="Sport Channel",RM TV English
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",[204] Olympic Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",[206] Sony Ten 1 HD 
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",Sony Ten 1 HD 
 http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",[206] Sony Ten 1 SD
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",Sony Ten 1 SD
 http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",[207] Sony Ten 2 HD 
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",Sony Ten 2 HD 
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",[207] Sony Ten 2 SD
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",Sony Ten 2 SD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",[207] Sony Ten 3 HD 
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",Sony Ten 3 HD 
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",[207] Sony Ten 3 SD
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",Sony Ten 3 SD
 http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport Channel",[207] Sony ESPN HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport Channel",Sony ESPN HD 
 http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport Channel",[207] Sony ESPN SD
 http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",[207] Sony SIX HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",Sony SIX HD 
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",[207] Sony SIX SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",Sony SIX SD
 http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/DSport_logo.png" group-title="Sport Channel",[207] DSport HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/DSport_logo.png" group-title="Sport Channel",DSport HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",[211] ESPN HD
+#EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",[211] ESPN 2 HD
+#EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN 2 HD
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://bdlivenow.com/wp-content/uploads/2017/08/ad-sports1.png" group-title="Sport Channel",[212] ad sports 1
+#EXTINF:-1 tvg-logo="http://bdlivenow.com/wp-content/uploads/2017/08/ad-sports1.png" group-title="Sport Channel",ad sports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvbd.live/wp-content/uploads/2017/08/ad-sports2.png" group-title="Sport Channel",[213] ad sports 2
+#EXTINF:-1 tvg-logo="http://tvbd.live/wp-content/uploads/2017/08/ad-sports2.png" group-title="Sport Channel",ad sports 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png?w=400&h=160" group-title="Sport Channel",[214] Dubai Sports 1
+#EXTINF:-1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png?w=400&h=160" group-title="Sport Channel",Dubai Sports 1
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png?w=400&h=160" group-title="Sport Channel",[214] Dubai Sports 2
+#EXTINF:-1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png?w=400&h=160" group-title="Sport Channel",Dubai Sports 2
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[215] Eurosport 1 SD
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 1 SD
 http://164.132.136.176:8000/0157
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[215] Eurosport 2 SD
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 2 SD
 http://195.206.253.157:8001/eurosport2hd
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[216] Eurosport 1 SD Czech
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 1 SD Czech
 http://65.254.55.10:4000/live/197/197.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[216] Eurosport 1 SD Ru
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 1 SD Ru
 http://46.8.159.250:44489/channel73.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",[216] Eurosport 2 SD Ru
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 2 SD Ru
 http://46.8.159.250:44489/channel74.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1280px-Rai_Sport_-_Logo_2017.svg.png"" group-title="Sport Channel",[218] Rai Sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1280px-Rai_Sport_-_Logo_2017.svg.png"" group-title="Sport Channel",Rai Sport
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",[219] BoxNation
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",BoxNation
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",[220] BT Sport 1 HD
-http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",BT Sport 1 HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",[220] BT Sport 2 HD
-http://62.210.214.28:80/live?channelId=142&deviceMac=00:1A:79:40:F0:86&uid=4739
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",[220] BT Sport 3 HD
-http://cdnv.cli.tn/iptv/ch1830
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",BT Sport 2 HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",[220] Mixed Sport Channel 1
-https://d2rjric2sj07nk.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/BR_Logo.png" group-title="Sport Channel",[205] Mixed Sport Channel 2
-https://d3syvicgo9bd96.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",BT Sport 3 HD
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png"" group-title="Sport Channel",[220] Astro Arena
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png"" group-title="Sport Channel",Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_render_-rgb.png"" group-title="Sport Channel",[221] Golf Channel
+#EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_render_-rgb.png"" group-title="Sport Channel",Golf Channel
 http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
 
 
 #NEWS
 
-#EXTINF:-1 tvg-logo="https://news.sky.com/assets/2018/sky-news-logo.png" group-title="News Channel",[300] sky news
+#EXTINF:-1 tvg-logo="https://news.sky.com/assets/2018/sky-news-logo.png" group-title="News Channel",sky news
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/682px-Al-jazeera-logo.jpg" group-title="News Channel",[301] Al-Jazeera English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/682px-Al-jazeera-logo.jpg" group-title="News Channel",Al-Jazeera English
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",[302] RT News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",RT News
 https://rt-news.secure.footprint.net/1103.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",[302] RT USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",RT USA
 https://rt-usa.secure.footprint.net/1105.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",[302] RT UK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",RT UK
 https://rt-uk.secure.footprint.net/1106.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/640px-VOA_logo.svg.png" group-title="News Channel",[303] VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/800px-Logo_of_C-SPAN.svg.png" group-title="News Channel",[304] C-Span 1
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/800px-Logo_of_C-SPAN.svg.png" group-title="News Channel",[305] C-Span 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/800px-Logo_of_C-SPAN.svg.png" group-title="News Channel",[306] C-Span 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/londonlive-big-logo.png" group-title="News Channel",[307] London Live
+#EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/londonlive-big-logo.png" group-title="News Channel",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6617.1492904872.png" group-title="News Channel",[308] TRT World
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6617.1492904872.png" group-title="News Channel",TRT World
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://weathergroup.com/sites/default/files/styles/adaptive/public/images/color_weatherchannel_0.png?itok=iWLXt3yQ" group-title="News Channel",[309] The Weather Channel 
+#EXTINF:-1 tvg-logo="http://weathergroup.com/sites/default/files/styles/adaptive/public/images/color_weatherchannel_0.png?itok=iWLXt3yQ" group-title="News Channel",The Weather Channel 
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, tvg-logo="http://is1.mzstatic.com/image/thumb/Purple3/v4/fd/d9/73/fdd97336-4b9d-26cf-d72c-db140f13055f/source/1200x630bb.jpg" group-title="News Channel", [314] WSJ Live
-http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="News Channel", [315] CGTN English
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="News Channel", CGTN English
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.asiasat.com/sites/default/files/tv5monde%20logo%20png.png" group-title="News Channel", [316] TV5 Monde Info
+#EXTINF:-1, tvg-logo="https://www.asiasat.com/sites/default/files/tv5monde%20logo%20png.png" group-title="News Channel", TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://ftpcontent2.worldnow.com/ktvn/CBS%20Program/CBS_News.jpg" group-title="News Channel", [317] CBS News
+#EXTINF:-1, tvg-logo="http://ftpcontent2.worldnow.com/ktvn/CBS%20Program/CBS_News.jpg" group-title="News Channel", CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 
-#EXTINF:-1, tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/74936577.gif" group-title="News Channel", [318] BBC Arabic
+#EXTINF:-1, tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/74936577.gif" group-title="News Channel", BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png" group-title="News Channel", [319] MSNBC
+#EXTINF:-1, tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png" group-title="News Channel",MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8
 
-#EXTINF:-1, tvg-logo="https://www3.nhk.or.jp/nhkworld/assets/images/icon_nhkworld_tv.png" group-title="News Channel", [319] NHK World Japan
+#EXTINF:-1, tvg-logo="https://www3.nhk.or.jp/nhkworld/assets/images/icon_nhkworld_tv.png" group-title="News Channel",NHK World Japan
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.monacobroadcast.mc/wp-content/uploads/2014/12/monaco-info1.jpg" group-title="News Channel",[302] Monaco Info
+#EXTINF:-1 tvg-logo="http://www.monacobroadcast.mc/wp-content/uploads/2014/12/monaco-info1.jpg" group-title="News Channel",Monaco Info
 http://46.105.34.238/liveevent.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/M%C3%BCnchen_tv_Logo.svg/2000px-M%C3%BCnchen_tv_Logo.svg.png" group-title="News Channel",[303] münchen TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/M%C3%BCnchen_tv_Logo.svg/2000px-M%C3%BCnchen_tv_Logo.svg.png" group-title="News Channel",münchen TV
 https://586c13b083c0d.streamlock.net/muenchentv/muenchentv.stream_1/chunklist_w480156176.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/PressTV.png" group-title="News Channel",[304] Press TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/PressTV.png" group-title="News Channel",Press TV
 https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1" group-title="News Channel",[305] BBC World News
+#EXTINF:-1 tvg-logo="https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1" group-title="News Channel",BBC World News
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="News Channel",[306] CNN Chile
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="News Channel",CNN Chile
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",[307] CNN International
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN International
 http://175.192.77.223:9981/stream/channelid/839769056
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",[307] CNN/U.S SD
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="News Channel",[308] MBC Korea
+#EXTINF:-1 tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="News Channel",MBC Korea
 http://175.192.77.223:9981/stream/channelid/1651972952
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",[309] Channel News Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",Channel News Asia
 http://103.89.176.45:8278/cna/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",[309] Channel News Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/2000px-Arirang.svg.png" group-title="News Channel",[309] Arirang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/2000px-Arirang.svg.png" group-title="News Channel",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="News Channel",[309] DW Deutsche Welle
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="News Channel",DW Deutsche Welle
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #LIVE EVENT
@@ -408,69 +390,63 @@ https://videos3.earthcam.com/fecnetwork/485.flv/playlist.m3u8
 https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist.m3u8
 
 #DOCUMENTARY
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",[300] RTд (Russia Today Documentary)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",RTд (Russia Today Documentary)
 https://rt-doc.secure.footprint.net/1101.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary Channel",[301] CGTN Documentary
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary Channel",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/bg-100-auto-moto-tv.jpg" group-title="Documentary Channel",[302] 100Automoto.tv
+#EXTINF:-1 tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/bg-100-auto-moto-tv.jpg" group-title="Documentary Channel",100Automoto.tv
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary Channel",[303] History Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary Channel",History Channel
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",[304] Animal Planet HD World
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",Animal Planet HD World
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Discovery_hd_world_%28small_globe%29.png/revision/latest/scale-to-width-down/640?cb=20170120003159" group-title="Documentary Channel",[305] Discovery HD World
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/220px-Sony_BBC_Earth.png" group-title="Documentary Channel",[306] SONY BBC Earth HD
-http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Discovery_hd_world_%28small_globe%29.png/revision/latest/scale-to-width-down/640?cb=20170120003159" group-title="Documentary Channel",Discovery HD World
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Documentary Channel",[306] Discovery Sci HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/220px-Sony_BBC_Earth.png" group-title="Documentary Channel",SONY BBC Earth HD
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Documentary Channel",Discovery Sci HD
 http://80.80.160.168/live/9/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="Documentary Channel",[307] Investigation Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="Documentary Channel",Investigation Discovery
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",[308] Animal Planet SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",Animal Planet SD
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Documentary Channel",[309] Travel Channel SD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Documentary Channel",Travel Channel SD 
 http://80.80.160.168/live/3/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Discovery_hd_world_%28small_globe%29.png/revision/latest/scale-to-width-down/640?cb=20170120003159" group-title="Documentary Channel",[310] Discovery HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Discovery_hd_world_%28small_globe%29.png/revision/latest/scale-to-width-down/640?cb=20170120003159" group-title="Documentary Channel",Discovery HD
 http://80.80.160.168/live/8/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Documentary Channel",[310] Outdoor Channel
-http://sg.doohdbox.com:8080/Outdoor/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Documentary Channel",[311] Diamond Earth
-http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
 
 #ENTERTAINMENT
 
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/05/abc-logo-2014__140506025424.png" group-title="Hiburan",[400] ABC
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/05/abc-logo-2014__140506025424.png" group-title="Hiburan",ABC
 https://klive-a.akamaihd.net/dc-1/live/hls/p/2306121/e/1_gesowtz8/sd/6000/t/y1SPmwgq_dJfURQEoU8kUA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/2000px-OWN_2011_logo.svg.png" group-title="Hiburan",[401] OWN (Oprah Winfrey Network)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/2000px-OWN_2011_logo.svg.png" group-title="Hiburan",OWN (Oprah Winfrey Network)
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Hiburan",[405] TLC HD World
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Hiburan",TLC HD World
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Hiburan",[406] AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Hiburan",[406] AXN SD
-http://cshms3.airtel.tv/wh7f454c46tw501677772_1439149542/PLTV/88888888/224/3221226443/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1006524625176743938/TMSDhdUW_400x400.jpg" group-title="Hiburan",[407] LF (Living Foodz) 
-http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/3221226329/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="Hiburan",[408] Showtime
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1006524625176743938/TMSDhdUW_400x400.jpg" group-title="Hiburan",LF (Living Foodz) 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="Hiburan",Showtime
 http://80.80.160.168/live/7/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/220px-KBS_World_%282009%29.svg.png" group-title="Hiburan",[409] KBS World HD
@@ -481,22 +457,19 @@ http://80.80.160.168/live/7/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/1200px-TCM_logo_2009.svg.png" group-title="Hiburan",[412] TCM (Turner Classic Movies) HD
 
-#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/logo_life.png" group-title="Hiburan",[413] KBSN Life Korea
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/logo_life.png" group-title="Hiburan",KBSN Life Korea
 http://175.192.77.223:9981/stream/channelid/92239969
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png" group-title="Hiburan",[423] Heartv
-https://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="Hiburan",[423] Foodie
+#EXTINF:-1 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="Hiburan",Foodie
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112686/live/BSgroup/amlst:foodiee/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/packages/handl.jpg" group-title="Hiburan",[423] H and L (Home and Living)
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/packages/handl.jpg" group-title="Hiburan",H and L (Home and Living)
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112685/live/BSgroup/amlst:homelivinghd/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Hiburan",[423] Fashion TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Hiburan",Fashion TV
 http://stream-01.sg1.dailymotion.com/52/dm/3/x3m6nld/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwO5k6izLTxBJEkDv2pK1MEuyW618TJ2xyLcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Hiburan",[423] ALL THE K-POP
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwO5k6izLTxBJEkDv2pK1MEuyW618TJ2xyLcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Hiburan",ALL THE K-POP
 https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 
 #MOVIE
@@ -504,18 +477,10 @@ https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 http://210.210.155.35/uq2663/h/h231/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Movie",Sony Le PLEX HD
-http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movie",&flixHD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movie",&privéHD
-http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20120615194124" group-title="Movie",HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-
-#United Kingdom TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK TV", ITV
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK TV", ITV 2
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
