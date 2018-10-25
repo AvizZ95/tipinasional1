@@ -38,13 +38,10 @@ https://stream-01.sg1.dailymotion.com/dm/3/x619221/live.m3u8
 http://id2.indostreamingtv.com/live/tv4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
-https://tv.rumahstreaming.stream/7f9e32101b1f4579sctv/lives/playlist.m3u8
+http://id7.indostreamingtv.com/live/tv2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar (Server tvonline.id)
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
 http://id1.indostreamingtv.com/live/tv11/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar (Server ez-tracker)
-https://tv.rumahstreaming.stream/5ecf9ba5789f4de8indosiar/lives/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",TV Parlemen
 http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
@@ -80,7 +77,7 @@ https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113
 https://stream-03.sg1.dailymotion.com/dm/3/x6pz4sa/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV opt-2
-https://tv.rumahstreaming.stream/384f77723ebe8ff4kompas/lives/chunks.m3u8
+https://iptv.prakashdivy.id/metube/kompastv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net 
 http://36.89.47.217:11935/rrinet/live/playlist.m3u8
@@ -94,7 +91,6 @@ https://rtm-live-stream2.glueapi.io/smil:rtmch002/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png" group-title="Channel Negara Tetangga",tv3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest/scale-to-width-down/640?cb=20180622050405" group-title="Channel Negara Tetangga",okey
 https://rtm-live-stream1.glueapi.io/smil:rtmch003.smil/chunklist.m3u8
