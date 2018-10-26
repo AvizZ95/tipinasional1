@@ -239,13 +239,17 @@ https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",BoxNation
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",BT Sport 1 HD
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",BT Sport 2 HD
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/BTSportLogo2018.png"" group-title="Sport Channel",BT Sport 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg"" group-title="Sport Channel",Arena Sport 1
+http://46.40.5.99:8000/arena_1_high
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg"" group-title="Sport Channel", Arena Sport 2
+http://46.40.5.99:8000/arena_2_high
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg"" group-title="Sport Channel", Arena Sport 3
+http://46.40.5.99:8000/arena_3_high
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg"" group-title="Sport Channel", Arena Sport 4
+http://46.40.5.99:8000/arena_4_high
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png"" group-title="Sport Channel",Astro Arena
