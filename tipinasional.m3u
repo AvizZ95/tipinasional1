@@ -320,7 +320,7 @@ http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN International
 http://175.192.77.223:9981/stream/channelid/839769056
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",[307] CNN/U.S SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN/U.S SD
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="News Channel",MBC Korea
@@ -340,16 +340,16 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #LIVE EVENT
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",[310] CNN Live Event
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",CNN Live Event
 https://cnn-i.akamaihd.net/hls/live/253953/dotcomlive_1/v2/master.m3u8?__b__=650
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",[311] CNN Live Event 2
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",CNN Live Event 2
 https://cnn-i.akamaihd.net/hls/live/253954/dotcomlive_2/v2/master.m3u8?__b__=650
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",[312] CNN Live Event 3
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",CNN Live Event 3
 https://cnn-i.akamaihd.net/hls/live/253955/dotcomlive_3/v2/master.m3u8?__b__=650
 
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/_News_2013.png/revision/latest?cb=20130610165528" group-title="News Live Event", [313] ABC News
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/_News_2013.png/revision/latest?cb=20130610165528" group-title="News Live Event", ABC News
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528" group-title="News Live Event",ABC News Digital 2
