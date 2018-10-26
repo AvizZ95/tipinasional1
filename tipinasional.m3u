@@ -107,7 +107,7 @@ http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" group-title="Channel Negara Tetangga",8tv
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/NewlogoTV9_%28Malaysia%29.png" group-title="Channel Negara Tetangga",tv9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d8/TV9logo_baru.jpg" group-title="Channel Negara Tetangga",tv9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/Channel_5_3D_logo.png/revision/latest?cb=20161027160840" group-title="Channel Negara Tetangga",Channel 5
@@ -272,7 +272,7 @@ https://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",RT UK
 https://rt-uk.secure.footprint.net/1106.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/640px-VOA_logo.svg.png" group-title="News Channel",[303] VOA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/640px-VOA_logo.svg.png" group-title="News Channel",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/londonlive-big-logo.png" group-title="News Channel",London Live
@@ -496,3 +496,6 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movie",&privéHD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png" group-title="Movie",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
