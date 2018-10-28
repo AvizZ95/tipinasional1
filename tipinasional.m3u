@@ -487,7 +487,7 @@ https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Hiburan",Fashion TV
 http://stream-01.sg1.dailymotion.com/52/dm/3/x3m6nld/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwO5k6izLTxBJEkDv2pK1MEuyW618TJ2xyLcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Hiburan",ALL THE K-POP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/all%20the%20-kpop.jpg" group-title="Hiburan",ALL THE K-POP
 https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="Hiburan",LIFETIME
