@@ -258,6 +258,8 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_render_-rgb.png"" group-title="Sport Channel",Golf Channel
 http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_render_-rgb.png"" group-title="Sport Channel",Golf Channel TRANSVision
+http://210.210.155.35/uq2663/h/h232/index.m3u8
 
 #NEWS
 
@@ -487,6 +489,9 @@ http://stream-01.sg1.dailymotion.com/52/dm/3/x3m6nld/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwO5k6izLTxBJEkDv2pK1MEuyW618TJ2xyLcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Hiburan",ALL THE K-POP
 https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="Hiburan",LIFETIME
+http://210.210.155.35/uq2663/h/h235/index.m3u8
 
 #MOVIE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
