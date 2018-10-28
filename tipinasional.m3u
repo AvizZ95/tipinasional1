@@ -493,6 +493,9 @@ https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="Hiburan",LIFETIME
 http://210.210.155.35/uq2663/h/h235/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.warnertvasia.com/resources/site/images/new/logo.png" group-title="Hiburan",Warner Bros tv
+http://210.210.155.35/uq2663/h/h233/index.m3u8
+
 #MOVIE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
 http://210.210.155.35/uq2663/h/h231/index.m3u8
