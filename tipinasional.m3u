@@ -149,6 +149,8 @@ https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index
 mms://202.160.15.88/stream-03-512
 
 #SPORT
+#EXTINF:-1 tvg-logo="http://kompitv.net/wp-content/uploads/2018/09/tvri-sport-hd.png" group-title="Sport Channel", TVRI SPORT-HD
+http://rr2.dens.tv/s/s48/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -468,7 +470,7 @@ http://80.80.160.168/live/8/live.m3u8
 #ENTERTAINMENT
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/05/abc-logo-2014__140506025424.png" group-title="Hiburan",ABC
-https://klive-a.akamaihd.net/dc-1/live/hls/p/2306121/e/1_gesowtz8/sd/6000/t/y1SPmwgq_dJfURQEoU8kUA/master.m3u8
+https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/2000px-OWN_2011_logo.svg.png" group-title="Hiburan",OWN (Oprah Winfrey Network)
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
