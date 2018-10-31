@@ -192,39 +192,43 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",Sony Ten 1 HD 
+http://163.172.211.93:8081/Ten/1/index.m3u8
+
 // http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",Sony Ten 1 SD
+// #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",Sony Ten 1 SD
 // http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",Sony Ten 2 HD 
+http://163.172.218.205:8081/2Ten/2/index.m3u8
+
 //http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",Sony Ten 2 SD
+// #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",Sony Ten 2 SD
 //http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",Sony Ten 3 HD 
+// #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",Sony Ten 3 HD 
 // http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",Sony Ten 3 SD
+// #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",Sony Ten 3 SD
 // http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport Channel",Sony ESPN HD 
+// #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport Channel",Sony ESPN HD 
 // http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport Channel",Sony ESPN SD
+// #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport Channel",Sony ESPN SD
 // http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/index.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",Sony SIX HD 
-//http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+// EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",Sony SIX HD 
+// http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",Sony SIX SD
+// #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",Sony SIX SD
 // http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/index.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/DSport_logo.png" group-title="Sport Channel",DSport HD
-// http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
+// #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/DSport_logo.png" group-title="Sport Channel",DSport HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
 
-EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN HD
+#EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN 2 HD
