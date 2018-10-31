@@ -345,6 +345,9 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="News Channel",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English
+https://stream-03.sg1.dailymotion.com/25/dm/3/x2j4h4m/live.m3u8
+
 #LIVE EVENT
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",CNN Live Event
