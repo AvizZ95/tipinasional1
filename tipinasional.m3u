@@ -23,27 +23,15 @@ https://stream-03.sg1.dailymotion.com/dm/3/x6p1gw7/live.m3u8
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV
-https://iptv.prakashdivy.id/metube/gtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV (opt-2)
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV
-https://iptv.prakashdivy.id/metube/mnctv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV (opt-2)
 http://id2.indostreamingtv.com/live/event/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI
 http://id8.indostreamingtv.com/live/tv6/index.m3u8
 
-#https://edge.okezone.com/live/rctioke.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI (opt-2) 
-https://iptv.prakashdivy.id/metube/rcti/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV
-https://iptv.prakashdivy.id/metube/inewstv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne
 https://stream-01.sg1.dailymotion.com/dm/3/x619221/live.m3u8
@@ -92,9 +80,6 @@ https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV
 https://stream-03.sg1.dailymotion.com/dm/3/x6pz4sa/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV opt-2
-https://iptv.prakashdivy.id/metube/kompastv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net 
 http://36.89.47.217:11935/rrinet/live/playlist.m3u8
