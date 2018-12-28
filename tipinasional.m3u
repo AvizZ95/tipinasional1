@@ -60,6 +60,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b3840
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-id="CNIH" tvg-name="CNN Indonesia HD" group-title="Local Channel",CNN Indonesia Transvision
 http://210.210.155.35/uq2663/h/h234/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png" tvg-id="CNIH" tvg-name="CNBC Indonesia HD" group-title="Local Channel",CNBC Indonesia 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
