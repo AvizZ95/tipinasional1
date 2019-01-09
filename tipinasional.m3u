@@ -85,7 +85,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113215/live/BsNew/amlst:beritasatunewsbs/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV
-https://stream-03.sg1.dailymotion.com/dm/3/x6pz4sa/live.m3u8
+https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxSFi1oRicdO-TIu7CR8LWE)/dm/3/x6pz4sa/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV (opt-2)
 http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
