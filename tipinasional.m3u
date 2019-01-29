@@ -335,10 +335,10 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English
-https://stream-02.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa3ppB5sf3THtYSJ89n7LyYw)/dm/3/x2j4h4m/s/live-3.m3u8
+http://rr2.dens.tv/s/s15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English (opt-2)
-https://euronews-en-b10-cdn.hexaglobe.net/a916c2fca31abbec3bc34f979fa1bd1c/5c35c711/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_720p.m3u8
+https://euronews-en-b10-cdn.hexaglobe.net/a75a98a44f3625dbe4404327b3a4d0e9/5c4ff8d6/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_720p.m3u8
 
 #LIVE EVENT
 
