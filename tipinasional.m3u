@@ -8,16 +8,15 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV
-https://stream-02.sg1.dailymotion.com/sec(E-jzZRG7S4T1sGdliNQCuRdm-5jpCRWO1cglopdWi1A)/dm/3/x4nwi47/s/live-3.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1242833125_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV (opt-2)
-https://stream-01.sg1.dailymotion.com/sec(fp1HhgIdXMyYhHhoDT7nFmJhmxKZ29y52J99ZHwNQD0)/dm/3/x5b99vx/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV (opt-3)
 http://id2.indostreamingtv.com/live/tv33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",Trans 7 
-https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G_bJrPoeq6FmSe-Tgws4BtU)/dm/3/x6p1gw7/s/live-4.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2031751052_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",Trans 7 (opt-2)
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
