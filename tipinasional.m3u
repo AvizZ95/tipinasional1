@@ -142,6 +142,10 @@ https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index
 mms://202.160.15.88/stream-03-512
 
 #SPORT
+
+#EXTINF:-1 tvg-logo="https://mycujoo-static.imgix.net/b89c37bd41dcdb064dc61d86a92a17e0.png" group-title="Sport Channel",PSSI TV
+https://live.mycujoo.tv/as/playlists/cjs8k4lnn00oe0kav4douxfow/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://kompitv.net/wp-content/uploads/2018/09/tvri-sport-hd.png" group-title="Sport Channel",TVRI SPORT-HD
 http://rr2.dens.tv/s/s48/index.m3u8
 
