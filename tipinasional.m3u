@@ -424,7 +424,8 @@ http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",Animal Planet HD World
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Discovery_hd_world_%28small_globe%29.png/revision/latest/scale-to-width-down/640?cb=20170120003159" group-title="Documentary Channel",Discovery HD World
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1095851396060999680/ey4MgIoF_400x400.png" group-title="Documentary Channel",Discovery
+http://live.ustvgo.net/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDc6MjA6MDMgUE0maGFzaF92YWx1ZT1xb3U0OHZBREdlYVZZM1J4ZGdqc3RRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w',
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/220px-Sony_BBC_Earth.png" group-title="Documentary Channel",SONY BBC Earth HD
@@ -466,7 +467,11 @@ http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/42
 http://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="Hiburan",Showtime
-http://80.80.160.168/live/7/live.m3u8
+http://live.ustvgo.net/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDc6Mjg6MzQgUE0maGFzaF92YWx1ZT1DVHhSRnhPN01ub09vNGF4RjMvVUZRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w',
+
+*http://80.80.160.168/live/7/live.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/220px-KBS_World_%282009%29.svg.png" group-title="Hiburan",[409] KBS World HD
 
@@ -498,15 +503,14 @@ https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 !http://210.210.155.35/uq2663/h/h233/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/k_plus_kr.png" group-title="Hiburan",K+
-!http://210.210.155.35/uq2663/h/h08/index.m3u8
+*http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mDW8Pz6tG-Q/WqBwxt1pXZI/AAAAAAAAAKQ/17Ly3Rs_XkkmJVi6jl0YvirfD4VCRLEzwCLcBGAs/s1600/sbs.png" group-title="Hiburan",SBSin HD
-!http://210.210.155.35/uq2663/h/h28/index.m3u8
+&http://210.210.155.35/uq2663/h/h28/index.m3u8
 
-http://live.ustvgo.net/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDc6MjA6MDMgUE0maGFzaF92YWx1ZT1xb3U0OHZBREdlYVZZM1J4ZGdqc3RRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w',
 #MOVIE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
-http://210.210.155.35/uq2663/h/h231/index.m3u8
+&http://210.210.155.35/uq2663/h/h231/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Movie",Sony
 https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
