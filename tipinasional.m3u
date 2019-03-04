@@ -42,7 +42,7 @@ http://id1.indostreamingtv.com/live/tv444/index.m3u8
 http://id2.indostreamingtv.com/live/tv44/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
-http://id8.indostreamingtv.com/live/tv22/index.m3u8
+http://id2.indostreamingtv.com/live/tv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
 http://id2.indostreamingtv.com/live/tv111/index.m3u8
@@ -88,6 +88,9 @@ https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxSFi1oRicdO-TIu7C
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV (opt-2)
 http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png",RTV
+http://210.210.155.35/session/6855bd92-3ed2-11e9-ba97-b82a72d63267/qwr9ew/s/s12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net 
 http://36.89.47.217:11935/rrinet/live/playlist.m3u8
