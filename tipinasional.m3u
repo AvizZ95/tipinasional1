@@ -44,8 +44,15 @@ http://id2.indostreamingtv.com/live/tv44/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
+https://tvbersama.rumahstreaming.stream/sctv/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE5IDk6NTU6NTIgUE0maGFzaF92YWx1ZT11THR2RVdSam5kL3F3QnBadTR5cFhRPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
 http://id2.indostreamingtv.com/live/tv111/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
+https://tvbersama.rumahstreaming.stream/indosiar/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE5IDk6NTI6MzMgUE0maGFzaF92YWx1ZT1uTVFQTXF4OHc0dVNObmVjRmZQWEJRPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",TV Parlemen
 http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
@@ -84,7 +91,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113215/live/BsNew/amlst:beritasatunewsbs/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV
-https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxSFi1oRicdO-TIu7CR8LWE)/dm/3/x6pz4sa/live-3.m3u8
+https://tvbersama.rumahstreaming.stream/kompastv/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE5IDk6NTc6MTYgUE0maGFzaF92YWx1ZT1pQlUyOTB2aHFjUm9EZXgwTEc0eVZBPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV (opt-2)
 http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
