@@ -170,6 +170,9 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QaVUh3LAh2g/WVJEIoTdIYI/AAAAAAAAHeE/PPaKtUxVtwIziTuY46721XotnxUMnwn8ACLcBGAs/s1600/real_madrid_tv_es_english.png" group-title="Sport Channel",RM TV English
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport Channel",MU TV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1.m3u8
 
