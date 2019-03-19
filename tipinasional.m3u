@@ -537,6 +537,9 @@ https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
 &http://210.210.155.35/uq2663/h/h231/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO
+http://103.205.133.14/hls/hbo.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Movie",Sony
 https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 
