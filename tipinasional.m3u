@@ -55,10 +55,10 @@ https://tvbersama.rumahstreaming.stream/indosiar/lives/chunks.m3u8?wmsAuthSign=c
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",TV Parlemen
-http://103.16.220.69:1935/golive/livestream/chunklist_w2103568284.m3u8
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/logo%5B1%5D.png" group-title="Local Channel",Inspira TV 
-http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
+http://stream1.ninmedia.tv/inspiratv/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-id="CNIH" tvg-name="CNN Indonesia HD" group-title="Local Channel",CNN Indonesia 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
@@ -76,7 +76,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Local Channel",Kitanesia
-http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/chunklist.m3u8
+http://stream1.ninmedia.tv/kitanesia/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",Net. HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
