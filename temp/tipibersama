@@ -1,0 +1,36 @@
+#LOCAL
+#EXTINF:-1 tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-id="TVRI" tvg-name="TVRI" group-title="Local Channel",TVRI Nasional
+https://tvbersama.rumahstreaming.stream/tvri/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NDY6NTkgUE0maGFzaF92YWx1ZT1SRmlkRjZEOVJSaXhDcHorNVhSZnVRPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV
+https://tvbersama.rumahstreaming.stream/transtv/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NDc6MzcgUE0maGFzaF92YWx1ZT1Vd0N4ZDNieXNQVmVrcmZReGNjclBBPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",Trans 7 
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2031751052_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV
+https://tvbersama.rumahstreaming.stream/trans7/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NDc6NTcgUE0maGFzaF92YWx1ZT1qM0p1Qm5KK3Z1bkxFNnBlWlFxb2dRPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV
+https://tvbersama.rumahstreaming.stream/mnctv/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NDg6MjcgUE0maGFzaF92YWx1ZT10MTNQK212TG1sTUJqM1BacHUzUmlBPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI
+https://tvbersama.rumahstreaming.stream/rcti/lives/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NDQ6MDEgUE0maGFzaF92YWx1ZT0yWktPRnU4SWwzeC81M1hocDhvMXBBPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV
+https://tvbersama.rumahstreaming.stream/inewstv/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NDk6MDUgUE0maGFzaF92YWx1ZT1adVRpWDFLbHJqUy9VcFNpYnppOHV3PT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne
+https://tvbersama.rumahstreaming.stream/tvone/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NDk6MzYgUE0maGFzaF92YWx1ZT1jcWVHMVlwK1BGd2xmeFZtczAxS21BPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",ANTV
+https://tvbersama.rumahstreaming.stream/antv/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NDk6NTEgUE0maGFzaF92YWx1ZT1EbTF0d2JxT1pvV05zcGVpMlZYdFhnPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
+https://tvbersama.rumahstreaming.stream/sctv/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NTA6MDcgUE0maGFzaF92YWx1ZT1HTEVqdjNhMTY4a1RsTTJLTEFEc2xRPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
+https://tvbersama.rumahstreaming.stream/indosiar/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NTA6MzMgUE0maGFzaF92YWx1ZT1VY04waWtSR2FjTnRnT2w2b0lKbUJ3PT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",KOMPASTV
+https://tvbersama.rumahstreaming.stream/kompastv/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTkgMTE6NTE6MzAgUE0maGFzaF92YWx1ZT0yM2hBVDlnNXVyMFJHSG1zakVwamhRPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
