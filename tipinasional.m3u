@@ -22,18 +22,19 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2031751052_b384000_sl
 http://id1.indostreamingtv.com/live/tv77/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
+http://202.80.222.130/000001/2/ch14041511505498448705/master.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV
-http://id2.indostreamingtv.com/live/event/index.m3u8
+http://202.80.222.130/000001/2/ch14041511111714365733/master.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV
+http://202.80.222.130/000001/2/ch14041511541532132975/master.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybM3RmAqepNSmAAQZMgN-RRE)/dm/3/x619221/live-3.m3u8
+http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne (opt-2)
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
