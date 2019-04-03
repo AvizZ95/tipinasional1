@@ -101,6 +101,8 @@ http://210.210.155.35/session/6855bd92-3ed2-11e9-ba97-b82a72d63267/qwr9ew/s/s12/
 http://36.89.47.217:11935/rrinet/live/playlist.m3u8
 
 #SPORT
+#EXTINF:-1 tvg-logo="https://mycujoo-static.imgix.net/b89c37bd41dcdb064dc61d86a92a17e0.png" group-title="Sport Channel",Super Soccer TV
+http://45.126.83.51/uq2663/h/h20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mycujoo-static.imgix.net/b89c37bd41dcdb064dc61d86a92a17e0.png" group-title="Sport Channel",PSSI TV
 https://live.mycujoo.tv/as/playlists/cjs8k4lnn00oe0kav4douxfow/master.m3u8
