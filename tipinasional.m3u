@@ -28,7 +28,7 @@ http://id6.indostreamingtv.com/live/tv1/index.m3u8
 http://id2.indostreamingtv.com/live/event/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI
-http://id2.indostreamingtv.com/live/tv66/index.m3u8
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV
 
@@ -63,10 +63,7 @@ http://stream1.ninmedia.tv/inspiratv/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-id="CNIH" tvg-name="CNN Indonesia HD" group-title="Local Channel",CNN Indonesia 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-id="CNIH" tvg-name="CNN Indonesia HD" group-title="Local Channel",CNN Indonesia Transvision
-http://210.210.155.35/uq2663/h/h234/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png" tvg-id="CNIH" tvg-name="CNBC Indonesia HD" group-title="Local Channel",CNBC Indonesia 
+#EXTINF:-1 tvg-logo="https://github.com/AvizZ95/tipinasional1/raw/master/logo/logo%5B1%5D.png" tvg-id="CNIH" tvg-name="CNBC Indonesia HD" group-title="Local Channel",CNBC Indonesia 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV
@@ -101,55 +98,6 @@ http://210.210.155.35/session/6855bd92-3ed2-11e9-ba97-b82a72d63267/qwr9ew/s/s12/
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net 
 http://36.89.47.217:11935/rrinet/live/playlist.m3u8
-
-#TV TETANGGA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Channel Negara Tetangga",tv1
-https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/1280px-Logo_of_TV2_%28Malaysia%29.svg.png" group-title="Channel Negara Tetangga",tv2
-https://rtm-live-stream2.glueapi.io/smil:rtmch002/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png" group-title="Channel Negara Tetangga",tv3
-http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest/scale-to-width-down/640?cb=20180622050405" group-title="Channel Negara Tetangga",okey
-https://rtm-live-stream1.glueapi.io/smil:rtmch003.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-image.glueapi.io/960x640/live_stream/3-TVi.jpg" group-title="Channel Negara Tetangga",TVi
-https://rtm-live-stream1.glueapi.io/smil:rtmch004/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vv-03Hl-Ufg/WkCDTpMyplI/AAAAAAAAJ3A/RhezEz-90PYR58J4HacuE8q7x_kM2IH4gCLcBGAs/s1600/1News.jpg" group-title="Channel Negara Tetangga",1news
-https://rtm-live-stream2.glueapi.io/smil:rtmch006/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5c/NTV_natseven_New.png/200px-NTV_natseven_New.png" group-title="Channel Negara Tetangga",ntv7
-http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" group-title="Channel Negara Tetangga",8tv
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d8/TV9logo_baru.jpg" group-title="Channel Negara Tetangga",tv9
-http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/Channel_5_3D_logo.png/revision/latest?cb=20161027160840" group-title="Channel Negara Tetangga",Channel 5
-https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/Channel-8-data.jpg/revision/latest?cb=20170202190816" group-title="Channel Negara Tetangga",Channel 8
-https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png/revision/latest?cb=20160318131523" group-title="Channel Negara Tetangga",Channel U
-https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/53/Logo_suria.gif" group-title="Channel Negara Tetangga",Suria Singapura Bahasa Melayu
-https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Okto_logo.jpg/revision/latest?cb=20170116165335" group-title="Channel Negara Tetangga",Channel OKTO
-https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Vst.png/revision/latest?cb=20160531151559" group-title="Channel Negara Tetangga",Vasantham
-https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Radio_Television_Brunei.gif" group-title="Channel Negara Tetangga", RTB
-mms://202.160.15.88/stream-03-512
 
 #SPORT
 
@@ -205,10 +153,10 @@ http://23.237.22.82:8086/udp/127.0.0.1:56047
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",Sony Ten 1 HD 
-http://163.172.211.93:8081/Ten/1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",Sony Ten 2 HD 
-http://163.172.218.205:8081/2Ten/2/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN HD
 http://80.80.160.168/live/6/live.m3u8
@@ -234,29 +182,11 @@ http://164.132.136.176:8000/0157
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 2 SD
 http://195.206.253.157:8001/eurosport2hd
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 1 SD Ru
-http://gorod.tv/s/live/501/86.169.51.136/1/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 2 SD Ru
-http://gorod.tv/s/live/502/86.169.51.136/1/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1280px-Rai_Sport_-_Logo_2017.svg.png"" group-title="Sport Channel",Rai Sport
-https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",BoxNation
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg"" group-title="Sport Channel",Arena Sport 1
-http://46.40.5.99:8000/arena_1_high
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg"" group-title="Sport Channel",Arena Sport 2
-http://46.40.5.99:8000/arena_2_high
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg"" group-title="Sport Channel",Arena Sport 3
-http://46.40.5.99:8000/arena_3_high
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Arena_sport_logo.jpg"" group-title="Sport Channel",Arena Sport 4
-http://46.40.5.99:8000/arena_4_high
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png"" group-title="Sport Channel",Astro Arena
@@ -365,8 +295,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 http://rr2.dens.tv/s/s15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English (opt-2)
-https://euronews-en-b10-cdn.hexaglobe.net/a75a98a44f3625dbe4404327b3a4d0e9/5c4ff8d6/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_720p.m3u8
-
+https://euronews-en-p10-cdn.hexaglobe.net/1a3a53787ed4c8e52f65e5dc5cb3b7e5/5ca40059/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/playlist.m3u8
 #LIVE EVENT
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",CNN Live Event
