@@ -120,7 +120,7 @@ http://23.237.22.82:8086/udp/127.0.0.1:56050
 //https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sport Channel",MLB Network
-//http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QaVUh3LAh2g/WVJEIoTdIYI/AAAAAAAAHeE/PPaKtUxVtwIziTuY46721XotnxUMnwn8ACLcBGAs/s1600/real_madrid_tv_es_english.png" group-title="Sport Channel",RM TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
@@ -467,19 +467,19 @@ https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 
 #MOVIE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
-&http://210.210.155.35/uq2663/h/h231/index.m3u8
+//http://210.210.155.35/uq2663/h/h231/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO
-http://103.205.133.14/hls/hbo.m3u8
+//http://103.205.133.14/hls/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Movie",Sony
-https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+//https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movie",&flixHD
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+//http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movie",&privéHD
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+//http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png" group-title="Movie",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
