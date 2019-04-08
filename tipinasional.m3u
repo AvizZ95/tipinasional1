@@ -40,7 +40,7 @@ http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=00
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",ANTV
-http://id2.indostreamingtv.com/live/tv44/index.m3u8
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
@@ -439,7 +439,6 @@ http://23.237.22.82:8086/udp/127.0.0.1:56069
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/1200px-TCM_logo_2009.svg.png" group-title="Hiburan",[412] TCM (Turner Classic Movies) HD
 
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/logo_life.png" group-title="Hiburan",KBSN Life Korea
-http://175.192.77.223:9981/stream/channelid/92239969
 
 #EXTINF:-1 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="Hiburan",Foodie
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112686/live/BSgroup/amlst:foodiee/chunklist.m3u8
@@ -448,22 +447,22 @@ https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112685/live/BSgroup/amlst:homelivinghd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Hiburan",Fashion TV
-http://stream-01.sg1.dailymotion.com/52/dm/3/x3m6nld/live.m3u8
+//http://stream-01.sg1.dailymotion.com/52/dm/3/x3m6nld/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/all%20the%20-kpop.jpg" group-title="Hiburan",ALL THE K-POP
-https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
+//https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="Hiburan",LIFETIME
-!http://210.210.155.35/uq2663/h/h235/index.m3u8
+//http://210.210.155.35/uq2663/h/h235/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.warnertvasia.com/resources/site/images/new/logo.png" group-title="Hiburan",Warner Bros tv
-!http://210.210.155.35/uq2663/h/h233/index.m3u8
+//http://210.210.155.35/uq2663/h/h233/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/k_plus_kr.png" group-title="Hiburan",K+
-*http://210.210.155.35/uq2663/h/h08/index.m3u8
+//http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mDW8Pz6tG-Q/WqBwxt1pXZI/AAAAAAAAAKQ/17Ly3Rs_XkkmJVi6jl0YvirfD4VCRLEzwCLcBGAs/s1600/sbs.png" group-title="Hiburan",SBSin HD
-&http://210.210.155.35/uq2663/h/h28/index.m3u8
+//http://210.210.155.35/uq2663/h/h28/index.m3u8
 
 #MOVIE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
@@ -486,3 +485,6 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="Movie",Celestial Movies
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="Movie",Hallmark MOVIES & MYSTERIES
+http://23.237.22.82:8086/udp/127.0.0.1:56067
