@@ -58,7 +58,7 @@ https://tvbersama.rumahstreaming.stream/indosiar/lives/chunks.m3u8?wmsAuthSign=c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",TV Parlemen
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/logo%5B1%5D.png" group-title="Local Channel",Inspira TV 
+#EXTINF:-1 tvg-logo="https://github.com/AvizZ95/tipinasional1/raw/master/logo/inspira/logo%5B1%5D.png" group-title="Local Channel",Inspira TV 
 http://stream1.ninmedia.tv/inspiratv/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-id="CNIH" tvg-name="CNN Indonesia HD" group-title="Local Channel",CNN Indonesia 
@@ -101,7 +101,7 @@ http://210.210.155.35/session/6855bd92-3ed2-11e9-ba97-b82a72d63267/qwr9ew/s/s12/
 http://36.89.47.217:11935/rrinet/live/playlist.m3u8
 
 #SPORT
-#EXTINF:-1 tvg-logo="https://mycujoo-static.imgix.net/b89c37bd41dcdb064dc61d86a92a17e0.png" group-title="Sport Channel",Super Soccer TV
+#EXTINF:-1 tvg-logo="https://cdn03.supersoccer.tv/v4/images/sstv-logo.png" group-title="Sport Channel",Super Soccer TV
 http://45.126.83.51/uq2663/h/h20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mycujoo-static.imgix.net/b89c37bd41dcdb064dc61d86a92a17e0.png" group-title="Sport Channel",PSSI TV
