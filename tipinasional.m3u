@@ -4,19 +4,29 @@
 #EXTINF:-1 tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" tvg-id="TVRI" tvg-name="TVRI" group-title="Local Channel",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" tvg-id="TVRI" tvg-name="TVRI" group-title="Local Channel",TVRI Nasional HD
+http://203.153.218.26:9981/stream/channelid/1922728440
+
+#EXTINF:-1 tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" tvg-id="TVRI" tvg-name="TVRI" group-title="Local Channel",TVRI Kanal 3
+http://203.153.218.26:9981/stream/channelid/2058903394
+
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/8.png" group-title="Local Channel",TVRI Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1242833125_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV (opt-2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV HD
+http://203.153.218.26:9981/stream/channelid/872431646
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV (opt-3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV (opt-2)
 http://id6.indostreamingtv.com/live/tv33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",Trans 7 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2031751052_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",Trans 7 HD
+http://203.153.218.26:9981/stream/channelid/887665353
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",Trans 7 (opt-2)
 http://id1.indostreamingtv.com/live/tv77/index.m3u8
@@ -39,21 +49,29 @@ http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne (opt-2)
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne (opt-3)
+http://203.153.218.26:9981/stream/channelid/1390866220
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",ANTV
+http://203.153.218.26:9981/stream/channelid/1408221580
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
-https://tvbersama.rumahstreaming.stream/sctv/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE5IDk6NTU6NTIgUE0maGFzaF92YWx1ZT11THR2RVdSam5kL3F3QnBadTR5cFhRPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+http://203.153.218.26:9981/stream/channelid/1496644862
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
 http://id2.indostreamingtv.com/live/tv111/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
-https://tvbersama.rumahstreaming.stream/indosiar/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE5IDk6NTI6MzMgUE0maGFzaF92YWx1ZT1uTVFQTXF4OHc0dVNObmVjRmZQWEJRPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+http://203.153.218.26:9981/stream/channelid/2013689573
 
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
+http://203.153.218.26:9981/stream/channelid/1104789424
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="Local Channel",TV Parlemen
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
@@ -61,14 +79,20 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/AvizZ95/tipinasional1/raw/master/logo/inspira/inspira.png" group-title="Local Channel",Inspira TV 
 http://stream1.ninmedia.tv/inspiratv/udp.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-id="CNIH" tvg-name="CNN Indonesia HD" group-title="Local Channel",CNN Indonesia 
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-id="CNIH" tvg-name="CNN Indonesia HD" group-title="Local Channel",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-id="CNIH" tvg-name="CNN Indonesia HD" group-title="Local Channel",CNN Indonesia Full HD
+http://203.153.218.26:9981/stream/channelid/928763583
 
 #EXTINF:-1 tvg-logo="https://github.com/AvizZ95/tipinasional1/raw/master/logo/logo%5B1%5D.png" tvg-id="CNIH" tvg-name="CNBC Indonesia HD" group-title="Local Channel",CNBC Indonesia 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV Full HD
+http://203.153.218.26:9981/stream/channelid/1058925148
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/IDX_Channel.png" group-title="Local Channel",[140] IDX Channel
 
@@ -89,9 +113,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113215/live/BsNew/amlst:beritasatunewsbs/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV
-https://tvbersama.rumahstreaming.stream/kompastv/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE5IDk6NTc6MTYgUE0maGFzaF92YWx1ZT1pQlUyOTB2aHFjUm9EZXgwTEc0eVZBPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV (opt-2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV
 http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png",RTV
@@ -109,6 +132,12 @@ https://live.mycujoo.tv/as/playlists/cjs8k4lnn00oe0kav4douxfow/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://kompitv.net/wp-content/uploads/2018/09/tvri-sport-hd.png" group-title="Sport Channel",TVRI SPORT-HD
 http://rr2.dens.tv/s/s48/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kompitv.net/wp-content/uploads/2018/09/tvri-sport-hd.png" group-title="Sport Channel",TVRI SPORT-HD
+http://203.153.218.26:9981/stream/channelid/1604691741
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-d6jduBnjj1Y/Vp82A2r2-pI/AAAAAAAABc8/HGLWccA9xNE/s1600/sport%2Bone.jpg" group-title="Sport Channel",SPORTONE
+http://203.153.218.26:9981/stream/channelid/1679431172
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -130,6 +159,8 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport Channel",MU TV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1.m3u8
@@ -266,7 +297,7 @@ https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN International
-//http://175.192.77.223:9981/stream/channelid/839769056
+http://203.153.218.26:9981/stream/channelid/1072653469
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN/U.S SD
 //http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
@@ -354,6 +385,16 @@ https://videos3.earthcam.com/fecnetwork/485.flv/playlist.m3u8
 https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist.m3u8
 
 #DOCUMENTARY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1000px-Natgeologo.svg.png" group-title="Hiburan",NATIONAL GEOGRAPHIC
+http://203.153.218.26:9981/stream/channelid/1159590602
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/903px-Logo_Nat_Geo_Wild.svg.png" group-title="Hiburan",NAT GEO WILD
+http://203.153.218.26:9981/stream/channelid/1461154413
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1280px-New_NatGeo_People_logo.svg.png" group-title="Hiburan",NAT GEO PEOPLE
+http://203.153.218.26:9981/stream/channelid/707541297
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",RTд (Russia Today Documentary)
 https://rt-doc.secure.footprint.net/1101.m3u8
 
@@ -364,17 +405,13 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary Channel",History Channel
-http://live.ustvgo.net/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDc6MzE6MjAgUE0maGFzaF92YWx1ZT1aYlEzeFpFc1ZvZXVycXQwOWxyL0N3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w',
+http://203.153.218.26:9981/stream/channelid/855888891
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",Animal Planet
-http://live.ustvgo.net/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDc6NDA6NTMgUE0maGFzaF92YWx1ZT10YUxIbnRZRUlhdGN1NGFCa3ZFbG5BPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w',
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1095851396060999680/ey4MgIoF_400x400.png" group-title="Documentary Channel",Discovery
-http://live.ustvgo.net/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDc6MjA6MDMgUE0maGFzaF92YWx1ZT1xb3U0OHZBREdlYVZZM1J4ZGdqc3RRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w',
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/220px-Sony_BBC_Earth.png" group-title="Documentary Channel",SONY BBC Earth HD
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Discovery_Channel_logo_2016.svg/2209px-Discovery_Channel_logo_2016.svg.png" group-title="Documentary Channel",Discovery
+http://203.153.218.26:9981/stream/channelid/1962401141
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Documentary Channel",Discovery Sci HD
 http://80.80.160.168/live/9/live.m3u8
@@ -444,9 +481,24 @@ http://rr2.dens.tv/s/s24/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="Hiburan",tve
 http://rr2.dens.tv/s/s25/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Hiburan",BLUE ANT EXTREME
+http://203.153.218.26:9981/stream/channelid/120552629
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="Hiburan",AXN
+http://203.153.218.26:9981/stream/channelid/2032967620
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1832px-FOX_wordmark-orange.svg.png" group-title="Hiburan",FOX
+http://203.153.218.26:9981/stream/channelid/321155929
+
 #MOVIE
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
-//http://210.210.155.35/uq2663/h/h231/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg" group-title="Movie",J'go First Movie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits
+http://203.153.218.26:9981/stream/channelid/1742170657
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie",HBO Signature
+http://203.153.218.26:9981/stream/channelid/2140740959
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO
 //http://103.205.133.14/hls/hbo.m3u8
@@ -464,7 +516,8 @@ http://rr2.dens.tv/s/s25/index.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="Movie",Celestial Movies
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index.m3u8
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="Movie",Hallmark MOVIES & MYSTERIES
 http://23.237.22.82:8086/udp/127.0.0.1:56067
