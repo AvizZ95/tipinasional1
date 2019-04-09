@@ -199,7 +199,7 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_render_-rgb.png"" group-title="Sport Channel",Golf Channel TRANSVision
-http://210.210.155.35/uq2663/h/h232/index.m3u8
+//http://210.210.155.35/uq2663/h/h232/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837340035091353600/28SdmRTr_400x400.jpg"" group-title="Sport Channel",NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
@@ -232,7 +232,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://weathergroup.com/sites/default/files/styles/adaptive/public/images/color_weatherchannel_0.png?itok=iWLXt3yQ" group-title="News Channel",The Weather Channel 
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?sd=10&rebase=on
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="News Channel",CGTN English
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -256,31 +256,20 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 http://46.105.34.238/liveevent.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/M%C3%BCnchen_tv_Logo.svg/2000px-M%C3%BCnchen_tv_Logo.svg.png" group-title="News Channel",münchen TV
-https://586c13b083c0d.streamlock.net/muenchentv/muenchentv.stream_1/chunklist_w480156176.m3u8
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/PressTV.png" group-title="News Channel",Press TV
 https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1" group-title="News Channel",BBC World News
-http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
+//http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="News Channel",CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN International
-http://175.192.77.223:9981/stream/channelid/839769056
+//http://175.192.77.223:9981/stream/channelid/839769056
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN/U.S SD
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN/U.S SD
-http://live.ustvgo.net/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDExOjE5OjQ1IFBNJmhhc2hfdmFsdWU9Z2s1UG1Eb2h0YjhITXRPNCtNdk5Mdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==',
-
-#EXTINF:-1 tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="News Channel",MBC Korea
-http://175.192.77.223:9981/stream/channelid/1651972952
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",Channel News Asia
-http://103.89.176.45:8278/cna/playlist.m3u8
+//http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
@@ -298,7 +287,8 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 http://rr2.dens.tv/s/s15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English (opt-2)
-https://euronews-en-p10-cdn.hexaglobe.net/1a3a53787ed4c8e52f65e5dc5cb3b7e5/5ca40059/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/playlist.m3u8
+https://euronews-en-b2-cdn.hexaglobe.net/7fc7b74e02572e989f95dcac72bce74b/5cac66fe/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/playlist.m3u8
+
 #LIVE EVENT
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2000px-CNN.svg.png" group-title="News Live Event",CNN Live Event
@@ -407,7 +397,7 @@ http://80.80.160.168/live/8/live.m3u8
 https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/2000px-OWN_2011_logo.svg.png" group-title="Hiburan",OWN (Oprah Winfrey Network)
-http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
+//http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Hiburan",TLC HD World
 
@@ -415,14 +405,9 @@ http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/42
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Hiburan",[406] AXN HD
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Hiburan",[406] AXN SD
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1006524625176743938/TMSDhdUW_400x400.jpg" group-title="Hiburan",LF (Living Foodz) 
-http://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="Hiburan",Showtime
-http://live.ustvgo.net/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDc6Mjg6MzQgUE0maGFzaF92YWx1ZT1DVHhSRnhPN01ub09vNGF4RjMvVUZRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w',
 http://80.80.160.168/live/7/live.m3u8
 
 
@@ -432,22 +417,11 @@ http://23.237.22.82:8086/udp/127.0.0.1:56069
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/220px-KBS_World_%282009%29.svg.png" group-title="Hiburan",[409] KBS World HD
 
-#EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="Hiburan",[410] BBC Player Asia
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Hiburan",[411] AMC
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/TCM_logo_2009.svg/1200px-TCM_logo_2009.svg.png" group-title="Hiburan",[412] TCM (Turner Classic Movies) HD
-
-#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/logo_life.png" group-title="Hiburan",KBSN Life Korea
-
 #EXTINF:-1 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="Hiburan",Foodie
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112686/live/BSgroup/amlst:foodiee/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/packages/handl.jpg" group-title="Hiburan",H and L (Home and Living)
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112685/live/BSgroup/amlst:homelivinghd/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Hiburan",Fashion TV
-//http://stream-01.sg1.dailymotion.com/52/dm/3/x3m6nld/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/all%20the%20-kpop.jpg" group-title="Hiburan",ALL THE K-POP
 //https://stream-02.sg1.dailymotion.com/01/dm/3/x4kzk1v/live.m3u8
@@ -463,6 +437,12 @@ https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/112
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-mDW8Pz6tG-Q/WqBwxt1pXZI/AAAAAAAAAKQ/17Ly3Rs_XkkmJVi6jl0YvirfD4VCRLEzwCLcBGAs/s1600/sbs.png" group-title="Hiburan",SBSin HD
 //http://210.210.155.35/uq2663/h/h28/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://asia.tv5monde.com/App_Themes/tv5monde/img/header-logo-asia.png" group-title="Hiburan",TV 5 Monde Asie
+http://rr2.dens.tv/s/s24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="Hiburan",tve
+http://rr2.dens.tv/s/s25/index.m3u8
 
 #MOVIE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20161213140412" group-title="Movie",HBO HD
