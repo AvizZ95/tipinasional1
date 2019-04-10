@@ -299,7 +299,7 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 http://203.153.218.26:9981/stream/channelid/1072653469
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN/U.S SD
-//http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+http://ott-cdn.ucom.am/s27/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
