@@ -4,11 +4,8 @@
 #EXTINF:-1 tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" tvg-id="TVRI" tvg-name="TVRI" group-title="Local Channel",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" tvg-id="TVRI" tvg-name="TVRI" group-title="Local Channel",TVRI Nasional HD
-http://203.153.218.26:9981/stream/channelid/1922728440
-
 #EXTINF:-1 tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" tvg-id="TVRI" tvg-name="TVRI" group-title="Local Channel",TVRI Kanal 3
-http://203.153.218.26:9981/stream/channelid/2058903394
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/8.png" group-title="Local Channel",TVRI Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
@@ -16,17 +13,11 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1242833125_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV HD
-http://203.153.218.26:9981/stream/channelid/872431646
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" tvg-id="TRTV" tvg-name="TRANS TV HD" group-title="Local Channel",Trans TV (opt-2)
 http://id6.indostreamingtv.com/live/tv33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",Trans 7 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2031751052_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",Trans 7 HD
-http://203.153.218.26:9981/stream/channelid/887665353
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",Trans 7 (opt-2)
 http://id1.indostreamingtv.com/live/tv77/index.m3u8
@@ -49,26 +40,14 @@ http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne (opt-2)
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne (opt-3)
-http://203.153.218.26:9981/stream/channelid/1390866220
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",ANTV
-http://203.153.218.26:9981/stream/channelid/1408221580
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
-http://203.153.218.26:9981/stream/channelid/1496644862
-
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
 http://id2.indostreamingtv.com/live/tv111/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
-http://203.153.218.26:9981/stream/channelid/2013689573
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
 http://203.153.218.26:9981/stream/channelid/1104789424
@@ -90,9 +69,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV Full HD
-http://203.153.218.26:9981/stream/channelid/1058925148
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/IDX_Channel.png" group-title="Local Channel",[140] IDX Channel
 
@@ -134,10 +110,10 @@ https://live.mycujoo.tv/as/playlists/cjs8k4lnn00oe0kav4douxfow/master.m3u8
 http://rr2.dens.tv/s/s48/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kompitv.net/wp-content/uploads/2018/09/tvri-sport-hd.png" group-title="Sport Channel",TVRI SPORT-HD
-http://203.153.218.26:9981/stream/channelid/1604691741
+//http://203.153.218.26:9981/stream/channelid/1604691741
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-d6jduBnjj1Y/Vp82A2r2-pI/AAAAAAAABc8/HGLWccA9xNE/s1600/sport%2Bone.jpg" group-title="Sport Channel",SPORTONE
-http://203.153.218.26:9981/stream/channelid/1679431172
+//http://203.153.218.26:9981/stream/channelid/1679431172
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -160,6 +136,7 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport Channel",MU TV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://video.toggle.sg/image/9001992/16x9/947/533/145abc4e5ce2f97724af049d36a615eb/yV/chelsea-tv.png" group-title="Sport Channel",Chelsea TV
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sport Channel",Olympic Channel 1
@@ -278,10 +255,10 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1, tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png" group-title="News Channel",MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8
+//http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8
 
 #EXTINF:-1, tvg-logo="https://www3.nhk.or.jp/nhkworld/assets/images/icon_nhkworld_tv.png" group-title="News Channel",NHK World Japan
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.monacobroadcast.mc/wp-content/uploads/2014/12/monaco-info1.jpg" group-title="News Channel",Monaco Info
 http://46.105.34.238/liveevent.m3u8
@@ -315,9 +292,6 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English
 http://rr2.dens.tv/s/s15/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English (opt-2)
-https://euronews-en-b2-cdn.hexaglobe.net/7fc7b74e02572e989f95dcac72bce74b/5cac66fe/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/playlist.m3u8
 
 #LIVE EVENT
 
