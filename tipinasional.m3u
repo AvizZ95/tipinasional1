@@ -297,6 +297,9 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="News Channel",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="News Channel",France 24 English (YT-Source)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/IBlUM-0NZZU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r4---sn-2uuxa3vh-cqvl.googlevideo.com/playlist_type/DVR/ei/50roXNm3BsyO3LUP0vKO6As/playlist_duration/30/manifest_duration/30/gcr/id/initcwndbps/3850/mm/44/mn/sn-2uuxa3vh-cqvl/ms/lva/mv/m/pl/20/dover/11/keepalive/yes/mt/1558727261/disable_polymer/true/ip/36.80.98.131/ipbits/0/expire/1558748999/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,playlist_duration,manifest_duration,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/3FED34DBFC832CFB41F3E44369782A9151E35926.8C5231B19240576F4B704B40F559DC3E762ED817/key/dg_yt0/playlist/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English
 http://rr2.dens.tv/s/s15/index.m3u8
 
