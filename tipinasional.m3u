@@ -37,9 +37,6 @@ http://202.80.222.130/000001/2/ch14041511541532132975/master.m3u8?virtualDomain=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne
 http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne (YT-Source)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/vgVxzEW5O2c.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-2uuxa3vh-cqvl.googlevideo.com/playlist_type/DVR/ei/iy_oXI2UHtiaz7sP3vah6Ao/playlist_duration/30/manifest_duration/30/gcr/id/initcwndbps/3490/mm/44/mn/sn-2uuxa3vh-cqvl/ms/lva/mv/m/pl/20/dover/11/keepalive/yes/mt/1558720292/disable_polymer/true/ip/36.80.98.131/ipbits/0/expire/1558741995/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,playlist_duration,manifest_duration,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/5EC4D451F6A0D5B4FACE18BD00D283653BF79046.02EAD9E24040B33AF52E4D9A0735A09F2D220666/key/dg_yt0/playlist/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne (opt-2)
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
