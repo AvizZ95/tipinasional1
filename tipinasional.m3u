@@ -82,17 +82,11 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 #EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",Net.
 http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",Net. (YT-Source)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/MP5QUuLDIAE.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/r3---sn-2uuxa3vh-cqvl.googlevideo.com/playlist_type/DVR/ei/DjHoXIzWG6jGz7sPwue54Ac/gcr/id/initcwndbps/3560/mm/44/mn/sn-2uuxa3vh-cqvl/ms/lva/mv/m/pl/20/dover/11/keepalive/yes/mt/1558720656/disable_polymer/true/ip/36.80.98.131/ipbits/0/expire/1558742382/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/6D1730DC1943229EFCDC40BDC5EC3C405389F9FA.4178824DD4E2CC8E83DC5AABB1DCC6091D958185/key/dg_yt0/playlist/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" tvg-id="BST" tvg-name="BeritaSatu",BeritaSatu News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" tvg-id="BST" tvg-name="BeritaSatu",BeritaSatu News Channel opt-2
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113215/live/BsNew/amlst:beritasatunewsbs/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV (YT-Source)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/cY3EJDH1VUM.1/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/r4---sn-2uuxa3vh-cqvl.googlevideo.com/playlist_type/DVR/ei/bDDoXP7SHorgowPp773QBQ/gcr/id/initcwndbps/3740/mm/32/mn/sn-2uuxa3vh-cqvl/ms/lv/mv/m/pl/20/dover/11/keepalive/yes/beids/23806811/mt/1558720481/disable_polymer/true/ip/36.80.98.131/ipbits/0/expire/1558742220/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/0B27BDD75A047AAE69D9EC14D01F9160BDAAE89D.91BF6C0FDA471E5B2570AD37491DB655228AF498/key/dg_yt0/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV
 http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -285,9 +279,6 @@ http://ott-cdn.ucom.am/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",Channel News Asia (YT-Source)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/JvZVnBn6zEI.537/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r2---sn-2uuxa3vh-cqvl.googlevideo.com/playlist_type/DVR/ei/6kPoXO-eCZGn1AbArqH4CA/gcr/id/initcwndbps/3700/mm/44/mn/sn-2uuxa3vh-cqvl/ms/lva/mv/m/pl/20/dover/11/keepalive/yes/mt/1558725507/disable_polymer/true/ip/36.80.98.131/ipbits/0/expire/1558747210/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/75FEDBA2562E2A9B880E148B637F09F7DDACBFEC.7A8720EB0407942A973054B5BCFFB8C4C12F227F/key/dg_yt0/playlist/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/2000px-Arirang.svg.png" group-title="News Channel",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 
@@ -297,20 +288,8 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="News Channel",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="News Channel",France 24 English (YT-Source)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/IBlUM-0NZZU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r4---sn-2uuxa3vh-cqvl.googlevideo.com/playlist_type/DVR/ei/50roXNm3BsyO3LUP0vKO6As/playlist_duration/30/manifest_duration/30/gcr/id/initcwndbps/3850/mm/44/mn/sn-2uuxa3vh-cqvl/ms/lva/mv/m/pl/20/dover/11/keepalive/yes/mt/1558727261/disable_polymer/true/ip/36.80.98.131/ipbits/0/expire/1558748999/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,playlist_duration,manifest_duration,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/3FED34DBFC832CFB41F3E44369782A9151E35926.8C5231B19240576F4B704B40F559DC3E762ED817/key/dg_yt0/playlist/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English
 http://rr2.dens.tv/s/s15/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English (YT-Source)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/JxEBO6vrAmM.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-2uuxa3vh-cqvl.googlevideo.com/playlist_type/DVR/ei/-D3oXLTDF6ONmgfZlpvgCw/gcr/id/initcwndbps/3590/mm/44/mn/sn-2uuxa3vh-cqvl/ms/lva/mv/m/pl/20/dover/11/keepalive/yes/mt/1558724005/disable_polymer/true/ip/36.80.98.131/ipbits/0/expire/1558745688/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/455985DD9D090B4620E9F5C8B611CC2F1B84C056.59D50DEF4B7D67C3729397D6232AF5B36E88765B/key/dg_yt0/playlist/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/1280px-ANN_logo.svg.png" group-title="News Channel",ANN NEWS (Bahasa Jepang)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/coYw-eVU0Ks.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r2---sn-2uuxa3vh-cqvl.googlevideo.com/playlist_type/DVR/ei/lzPoXJ-yH_6V3LUP9Ku5kAU/playlist_duration/30/manifest_duration/30/gcr/id/initcwndbps/3600/mm/44/mn/sn-2uuxa3vh-cqvl/ms/lva/mv/m/pl/20/dover/11/keepalive/yes/mt/1558721312/disable_polymer/true/ip/36.80.98.131/ipbits/0/expire/1558743031/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,playlist_duration,manifest_duration,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/343E1BF9378A8467566C7C538537095C1792184E.34D59E4AB357717D2CFE44714CA681D344CEC5CE/key/dg_yt0/playlist/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/YTN_NEW_CI_%28after_2014.04.07%29.png" group-title="News Channel",YTN (Bahasa Korea)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/W9jr3QypVCg.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-2uuxa3vh-cqvl.googlevideo.com/playlist_type/DVR/ei/JjXoXLzdLJfFz7sP6tGnsAs/gcr/id/initcwndbps/3520/mm/44/mn/sn-2uuxa3vh-cqvl/ms/lva/mv/m/pl/20/dover/11/keepalive/yes/mt/1558721689/disable_polymer/true/ip/36.80.98.131/ipbits/0/expire/1558743430/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/3A04B2094094DD480D5F4BDD29AE562177CBE53F.796D25A92681DFF59CACB69A1365344B756DF2CF/key/dg_yt0/playlist/index.m3u8
 
 #LIVE EVENT
 
@@ -363,7 +342,6 @@ http://210.210.155.35/qwr9ew/s/s27/index.m3u8
 #EXTINF:-1, tvg-logo="https://banner2.kisspng.com/20180421/hke/kisspng-quran-mecca-television-channel-television-show-the-holy-quran-5adb1aaa68d583.5559187415243086504294.jpg" group-title="Live",Quran TV Masjid Haram Mekkah
 http://210.210.155.35/qwr9ew/s/s28/index.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://dcassetcdn.com/design_img/31919/61617/61617_806190_31919_image.jpg" group-title="Live,Times Square Street Cam
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist.m3u8
 
@@ -377,8 +355,6 @@ https://videos3.earthcam.com/fecnetwork/485.flv/playlist.m3u8
 https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist.m3u8
 
 #DOCUMENTARY
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png" group-title="Hiburan",NASA TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/21X5lGlDOfg.1/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/r1---sn-2uuxa3vh-cqvl.googlevideo.com/playlist_type/DVR/ei/6DHoXO_OE7WP8QPV24roBw/gcr/id/initcwndbps/3670/mm/32/mn/sn-2uuxa3vh-cqvl/ms/lv/mv/m/pl/20/dover/11/keepalive/yes/beids/9466586/mt/1558720954/disable_polymer/true/ip/36.80.98.131/ipbits/0/expire/1558742600/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/2B1A777C8F2CF4E752DBFB816D8F02D3CEA2E9FD.6E7BD55398DDC2F75F506A038FCD4FAD353C47B0/key/dg_yt0/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1000px-Natgeologo.svg.png" group-title="Hiburan",NATIONAL GEOGRAPHIC
 http://203.153.218.26:9981/stream/channelid/1159590602
