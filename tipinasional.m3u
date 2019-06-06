@@ -222,7 +222,8 @@ http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837340035091353600/28SdmRTr_400x400.jpg"" group-title="Sport Channel",NBCSN
 //http://23.237.22.82:8086/udp/127.0.0.1:56016
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Sky_Sports_F1_logo.svg/1280px-Sky_Sports_F1_logo.svg.png"" group-title="Sport Channel",Sky Sports F1
+http://82.35.214.2:8001/1:0:1:144:3:F020:FFFF0000:0:0:0:
 
 
 #NEWS
@@ -507,3 +508,4 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="Movie",Hallmark MOVIES & MYSTERIES
 http://23.237.22.82:8086/udp/127.0.0.1:56067
+
