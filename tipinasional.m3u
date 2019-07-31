@@ -174,13 +174,16 @@ http://80.80.160.168/live/6/live.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN 1
-http://espn.tmedia.me/cache/espn1.m3u8
+http://185.246.209.109:8080/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN 2
-http://espn.tmedia.me/cache/espn2.m3u8
+http://185.246.209.109:8080/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png"" group-title="Sport Channel",ESPN U
 http://espn.tmedia.me/cache/espnu.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png"" group-title="Sport Channel",ESPN SEC Network
+http://185.246.209.109:8080/SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png"" group-title="Sport Channel",ESPNews
 http://espn.tmedia.me/cache/espnews.m3u8
@@ -374,13 +377,13 @@ https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist.m3u8
 
 #DOCUMENTARY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1000px-Natgeologo.svg.png" group-title="Hiburan",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1000px-Natgeologo.svg.png" group-title="Documentary Channel",NATIONAL GEOGRAPHIC
 http://203.153.218.26:9981/stream/channelid/1159590602
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/903px-Logo_Nat_Geo_Wild.svg.png" group-title="Hiburan",NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/903px-Logo_Nat_Geo_Wild.svg.png" group-title="Documentary Channel",NAT GEO WILD
 http://203.153.218.26:9981/stream/channelid/1461154413
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1280px-New_NatGeo_People_logo.svg.png" group-title="Hiburan",NAT GEO PEOPLE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1280px-New_NatGeo_People_logo.svg.png" group-title="Documentary Channel",NAT GEO PEOPLE
 http://203.153.218.26:9981/stream/channelid/707541297
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",RTд (Russia Today Documentary)
@@ -508,4 +511,16 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="Movie",Hallmark MOVIES & MYSTERIES
 http://23.237.22.82:8086/udp/127.0.0.1:56067
+
+#Korea
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS
+http://122.129.115.21:1935/edgedol/_definst_/tao116/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/SBS_Plus_logo.png" group-title="Korea",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+
+
 
