@@ -28,14 +28,29 @@ http://id1.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV
 http://202.80.222.130/000001/2/ch14041511505498448705/master.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV (RCTI+)
+https://live.rctiplus.id/rctiplus/gtv_manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV
 http://202.80.222.130/000001/2/ch14041511111714365733/master.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV (RCTI+)
+https://live.rctiplus.id/rctiplus/mnctv_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV (opt-2)
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI (RCTI+)
+https://live.rctiplus.id/rctiplus/rcti_manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV
 http://202.80.222.130/000001/2/ch14041511541532132975/master.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV (RCTI+)
+https://live.rctiplus.id/rctiplus/inews_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne
 http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -50,7 +65,7 @@ http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=0
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
-http://id2.indostreamingtv.com/live/tv111/index.m3u8
+http://id2.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
 http://rr2.dens.tv/s/s04/index.m3u8
@@ -111,10 +126,10 @@ https://live.mycujoo.tv/as/playlists/cjs8k4lnn00oe0kav4douxfow/master.m3u8
 http://rr2.dens.tv/s/s107/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kompitv.net/wp-content/uploads/2018/09/tvri-sport-hd.png" group-title="Sport Channel",TVRI SPORT-HD
-//http://203.153.218.26:9981/stream/channelid/1604691741
+http://203.153.218.26:9981/stream/channelid/1637650880
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-d6jduBnjj1Y/Vp82A2r2-pI/AAAAAAAABc8/HGLWccA9xNE/s1600/sport%2Bone.jpg" group-title="Sport Channel",SPORTONE
-//http://203.153.218.26:9981/stream/channelid/1679431172
+http://203.153.218.26:9981/stream/channelid/896549830
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
