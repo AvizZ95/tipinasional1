@@ -143,6 +143,12 @@ http://203.153.218.26:9981/stream/channelid/1637650880
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-d6jduBnjj1Y/Vp82A2r2-pI/AAAAAAAABc8/HGLWccA9xNE/s1600/sport%2Bone.jpg" group-title="Sport Channel",SPORTONE
 http://203.153.218.26:9981/stream/channelid/896549830
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport Channel",RTM HD Sports
+http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="Sport Channel",FIGHT SPORTS
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport Channel",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
