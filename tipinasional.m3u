@@ -260,10 +260,10 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 1 SD
-http://164.132.136.176:8000/0157
+https://ul.cdn946.net:8443/hls/fo6djhrc.m3u8?s=5Ea-RXCZeDBdCYve4bLJNg&e=1571167913
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 2 SD
-http://195.206.253.157:8001/eurosport2hd
+https://ul.cdn946.net:8443/hls/c8vzpya90.m3u8?s=XejQ69TejXI289FSnkeGAg&e=1571168198
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",BoxNation
