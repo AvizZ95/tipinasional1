@@ -23,13 +23,13 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2031751052_b384000_sl
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV
-http://202.80.222.130/000001/2/ch14041511505498448705/master.m3u8?virtualDomain=000001.live_hls.zte.com
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV (RCTI+)
 https://live.rctiplus.id/rctiplus/gtv_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV
-http://202.80.222.130/000001/2/ch14041511111714365733/master.m3u8?virtualDomain=000001.live_hls.zte.com
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV (RCTI+)
 https://live.rctiplus.id/rctiplus/mnctv_manifest.m3u8
@@ -38,25 +38,19 @@ https://live.rctiplus.id/rctiplus/mnctv_manifest.m3u8
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI
-http://id8.indostreamingtv.com/live/tv66/index.m3u8
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI (RCTI+)
 https://live.rctiplus.id/rctiplus/rcti_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV
-http://202.80.222.130/000001/2/ch14041511541532132975/master.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV (RCTI+)
 https://live.rctiplus.id/rctiplus/inews_manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne
-http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne (opt-2)
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",ANTV
-http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
@@ -92,7 +86,7 @@ http://stream1.ninmedia.tv/kitanesia/udp.stream/playlist.m3u8
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",Net.
-http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" tvg-id="BST" tvg-name="BeritaSatu",BeritaSatu News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
@@ -107,10 +101,10 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113215/live/BsNew/amlst:beritasatunewsbs/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV
-http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png",RTV
-http://210.210.155.35/session/6855bd92-3ed2-11e9-ba97-b82a72d63267/qwr9ew/s/s12/index.m3u8
+http://rr2.dens.tv/s/s12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net 
 http://36.89.47.217:11935/rrinet/live/playlist.m3u8
@@ -259,12 +253,11 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://channeltvparabolaindonesia.files.wordpress.com/2015/05/dubai_sports_2014_logo.png?w=400&h=160" group-title="Sport Channel",Dubai Sports 2
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 1 SD
-https://ul.cdn946.net:8443/hls/fo6djhrc.m3u8?s=5Ea-RXCZeDBdCYve4bLJNg&e=1571167913
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 1
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 2 SD
-https://ul.cdn946.net:8443/hls/c8vzpya90.m3u8?s=XejQ69TejXI289FSnkeGAg&e=1571168198
-
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 2
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",BoxNation
 
