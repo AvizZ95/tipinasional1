@@ -17,7 +17,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV (RCTI+)
 https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/index.m3u8
@@ -29,7 +29,7 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV (opt-2)
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
@@ -41,16 +41,16 @@ https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne (opt-2)
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://gratismkctv.net/oxygen.m3u8?channel=tvone
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/e/e5/20110218143118%21SCTV_Logo.png" tvg-id="SCTV" tvg-name="SCTV" group-title="Local Channel",SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1614587412~acl=/hls-b/ingest_204_*/*~hmac=59070da550d655dce8dd0a43d0d8f00699fc63573d9913504942b301ec39d019/hls-b/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" tvg-id="IDS" tvg-name="Indosiar" group-title="Local Channel",Indosiar
 http://210.210.155.35/session/76d0041c-61be-11ea-952d-b82a72d63267/x6bnqe/s/s251/01.m3u8
@@ -77,7 +77,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://stream1.ninmedia.tv/kitanesia/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",Net. HD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",Net.
 http://210.210.155.35/session/636b65d8-61be-11ea-8ed3-b82a72d63267/qwr9ew/s/s08/01.m3u8
@@ -95,7 +95,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113215/live/BsNew/amlst:beritasatunewsbs/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"  tvg-id="KOM" tvg-name="Kompas TV",KompasTV
-https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png",RTV
 http://rr2.dens.tv/s/s12/index.m3u8
@@ -108,6 +108,9 @@ https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w129088660
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",Nusantara TV
+https://v6.siar.us/nusantaratv/live/chunks.m3u8?nimblesessionid=5215532
 
 #SPORT
 #EXTINF:-1 tvg-logo="https://cdn03.supersoccer.tv/v4/images/sstv-logo.png" group-title="Sport Channel",Super Soccer TV
@@ -274,6 +277,14 @@ http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Sky_Sports_F1_logo.svg/1280px-Sky_Sports_F1_logo.svg.png"" group-title="Sport Channel",Sky Sports F1
 http://89.187.181.171:826/armelb/zQxn5lB3zK/98783
 
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586418117-.png"" group-title="Sport Channel",Champions tv 1 HD
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586418135-.png"" group-title="Sport Channel",Champions tv 2 HD
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 tvg-logo="https://jurnalapps.co.id/assets/img/content/1609169144_tv3-28-1.jpg"" group-title="Sport Channel",Champions tv 3 HD
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
 
 #NEWS
 
@@ -455,7 +466,6 @@ http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="Documentary Channel",Investigation Discovery
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1280px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Documentary Channel",Animal Planet SD
 http://80.80.160.168/live/1/live.m3u8
 
@@ -464,6 +474,12 @@ http://80.80.160.168/live/3/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Discovery_hd_world_%28small_globe%29.png/revision/latest/scale-to-width-down/640?cb=20170120003159" group-title="Documentary Channel",Discovery HD
 http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary Channel",Love Nature
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Smithsonian_Channel_current_logo.png" group-title="Documentary Channel",Smithsonian Channel
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
 
 #ENTERTAINMENT
 
@@ -567,6 +583,9 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="Korea",tvN
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
 
 
 
