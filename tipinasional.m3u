@@ -576,10 +576,10 @@ http://23.237.22.82:8086/udp/127.0.0.1:56067
 
 #Korea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS
-http://122.129.115.21:1935/edgedol/_definst_/tao116/chunklist.m3u8
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/SBS_Plus_logo.png" group-title="Korea",SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
@@ -587,5 +587,19 @@ https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="Korea",tvN
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/EBS_1TV_Logo.png" group-title="Korea",EBS 1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/1024px-EBS_2TV_Logo.svg.png" group-title="Korea",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/a3IuY28uZWJzZS5wbGF5ZXJfaWNvbl8xNTUzMzI0MTMxXzA4NA/icon.png?w=&fakeurl=1" group-title="Korea",EBS e
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/499382475479465984/C5SQzdu8_400x400.jpeg" group-title="Korea",EBS i
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png" group-title="Korea",EBS +2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/playlist.m3u8
 
 
