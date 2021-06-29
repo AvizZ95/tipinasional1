@@ -251,10 +251,10 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 1
-http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+https://z.wmsxx.com:30443/live/41/chunks.m3u8?nimblesessionid=1034375&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDEyOjI0OjQ1IFBNJmhhc2hfdmFsdWU9RnFEWEhQY0JvTiswN3V4NnkzTGdqQT09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/03/Eurosport_logo.png?ssl=1" group-title="Sport Channel",Eurosport 2
-http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+https://z.wmsxx.com:30443/live/42/chunks.m3u8?nimblesessionid=1037804&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDEyOjI3OjIzIFBNJmhhc2hfdmFsdWU9TUEvVytJK3JwcWNEc0RUZFF5LytXZz09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",BoxNation
 
@@ -611,8 +611,11 @@ http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png" group-title="Korea",EBS +2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/playlist.m3u8
 
+#UK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/2560px-ITV_logo_2019.svg.png" group-title="UK",BBC One
+https://x.wmsxx.com:30443/live/4/chunks.m3u8?nimblesessionid=4385483&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDEyOjIwOjE4IFBNJmhhc2hfdmFsdWU9N1F5LzJLcEdkTXNlS0dVbDBKZkM4QT09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/2560px-ITV_logo_2019.svg.png" group-title="UK",ITV
-http://sportportal1.akamaized.net/hls/live/207242-b/itvlive/ITV1PORTAL2/master_Main600.m3u8
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
 
