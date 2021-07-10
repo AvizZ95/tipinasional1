@@ -355,10 +355,10 @@ https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
 https://1636691764.rsc.cdn77.org/NHlmB84m_KVFn4iu-jmRkQ==,1583553604/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN International
-http://203.153.218.26:9981/stream/channelid/1072653469
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN/U.S SD
-http://ott-cdn.ucom.am/s27/index.m3u8
+https://1176700211.rsc.cdn77.org/S_IluVops7OWodgY-96oXw==,1625944902/1176700211/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News Channel",Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
@@ -377,6 +377,9 @@ http://rr2.dens.tv/s/s15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News Channel",euronews English
 https://euronews-en-p12-cdn.hexaglobe.net/8d2375bcb31998de1443dacb824e9d36/5cf55935/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News Channel",euronews English
+https://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #LIVE EVENT
 
