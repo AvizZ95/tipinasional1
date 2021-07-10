@@ -275,7 +275,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
 //http://23.237.22.82:8086/udp/127.0.0.1:56016
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Sky_Sports_F1_logo.svg/1280px-Sky_Sports_F1_logo.svg.png"" group-title="Sport Channel",Sky Sports F1
-http://89.187.181.171:826/armelb/zQxn5lB3zK/98783
+http://stream.tvtap.live:8081/live/skysportsf1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586418117-.png"" group-title="Sport Channel",Champions tv 1 HD
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
