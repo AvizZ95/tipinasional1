@@ -224,7 +224,7 @@ https://d2hrzreazv2mnr.cloudfront.net/out/v1/5c00be96b88f417187c56c5ceeaab82f/in
 http://stream2.grandma.fit/fs2.m3u8
 
 #EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN 2 HD
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+http://stream2.grandma.fit/espn2.m3u8
 
 #EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN 1
 http://185.246.209.109:8080/ESPN/index.m3u8
@@ -232,14 +232,17 @@ http://185.246.209.109:8080/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="http://wsobv.com/wp-content/uploads/2017/04/ESPN-Logo-small.png" group-title="Sport Channel",ESPN 2
 http://185.246.209.109:8080/ESPN2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png"" group-title="Sport Channel",ESPN U
-http://espn.tmedia.me/cache/espnu.m3u8
+#EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png" group-title="Sport Channel",ESPN U
+http://stream2.grandma.fit/espnu.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png"" group-title="Sport Channel",ESPN SEC Network
-http://185.246.209.109:8080/SEC_NETWORK/index.m3u8
+http://stream2.grandma.fit/sec.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png"" group-title="Sport Channel",ESPNews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="Sport Channel",ESPNews
 http://espn.tmedia.me/cache/espnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/2560px-ACC_Network_ESPN_logo.svg.png" group-title="Sport Channel",ESPN ACC
+http://stream2.grandma.fit/acc.m3u8
 
 #EXTINF:-1 tvg-logo="http://bdlivenow.com/wp-content/uploads/2017/08/ad-sports1.png" group-title="Sport Channel",ad sports 1
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
