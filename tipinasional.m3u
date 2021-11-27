@@ -36,7 +36,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1024px-Trans_7_2013.svg.png" tvg-id="TR7" tvg-name="TRANS7 HD" group-title="Local Channel",Trans 7 (2)
 https://siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/Trans7-null.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV
+#EXTINF:-1 tvg-logo="https://www.gtv.id/assets/esport/logo-gtv-black.png" tvg-id="GLO" tvg-name="Global TV" group-title="Local Channel",GTV
 https://siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/GTV-null.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/640px-MNCTV_logo.png" tvg-id="MNC" tvg-name="MNCTV" group-title="Local Channel",MNC TV
@@ -45,7 +45,7 @@ https://siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/320px-RCTI_logo_2015.svg.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",RCTI
 https://siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/RCTI-null.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV 
+#EXTINF:-1 tvg-logo="https://img.inews.co.id/media/185/files/inews_new/2018/10/11/iNewsLogo-tag.png" tvg-id="RCTI" tvg-name="RCTI" group-title="Local Channel",iNews TV 
 https://Siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/Inews-null.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png"tvg-id="TV1" tvg-name="tvOne" group-title="Local Channel",tvOne (opt-2)
