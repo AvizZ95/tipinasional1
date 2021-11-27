@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" tvg-id="TVRI" tvg-name="TVRI" group-title="Local Channel",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" tvg-id="TVRI" tvg-name="TVRI" group-title="Local Channel",TVRI Nasional
+https://Siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/T.V.R.I-ID-null.m3u8
+
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/8.png" group-title="Local Channel",TVRI Jawa Barat
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 
