@@ -80,10 +80,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://Siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/CNBC-id_TEVE.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/2560px-LogoMetroTVsince2010.svg.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20180331063915%21New_MetroTV_Logo_2010.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV (2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/2560px-LogoMetroTVsince2010.svg.png" tvg-id="MET" tvg-name="Metro TV" group-title="Local Channel",Metro TV (2)
 https://Siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/MetroTV-null.m3u8
 
 
@@ -93,10 +93,10 @@ https://Siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/
 #EXTINF:-1 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Local Channel",Kitanesia
 http://stream1.ninmedia.tv/kitanesia/udp.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",Net. HD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/NETCHANNEL.png" group-title="Local Channel",Net. HD
+https://siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/net-null.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",Net.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/NETCHANNEL.png" group-title="Local Channel",Net.
 http://210.210.155.35/session/636b65d8-61be-11ea-8ed3-b82a72d63267/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" tvg-id="BST" tvg-name="BeritaSatu",BeritaSatu News Channel
@@ -115,19 +115,16 @@ https://iflix-videocdn-p2.akamaized.net/userid/v_22922679-i_22756361/assetid/113
 https://Siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/KompasTV-null.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png",RTV
-http://rr2.dens.tv/s/s12/index.m3u8
+https://siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/RTV-null.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png",RRI Net 
 http://36.89.47.217:11935/rrinet/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/insert%20live.png",!nsertLive.com
-https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w1290886601_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",Nusantara TV
-https://v6.siar.us/nusantaratv/live/chunks.m3u8?nimblesessionid=5215532
+https://Siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/Nusa_n=tara-null.m3u8
 
 #SPORT
 #EXTINF:-1 tvg-logo="https://cdn03.supersoccer.tv/v4/images/sstv-logo.png" group-title="Sport Channel",Super Soccer TV
